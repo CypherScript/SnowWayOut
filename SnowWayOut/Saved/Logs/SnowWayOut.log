@@ -3451,3 +3451,108 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.07-00.27.53:180][608]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.05.07-00.27.53:227][608]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
 [2021.05.07-00.27.53:279][609]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2021.05.07-00.30.40:375][627]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2021.05.07-00.30.45:962][196]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-00.30.45:962][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-00.30.47:800][306]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-00.30.47:800][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-00.30.47:812][306]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-00.30.47:812][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-00.30.47:902][306]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-00.30.47:902][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-00.33.07:509][581]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.05.07-00.33.15:502][581]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.05.07-00.33.15:508][581]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.05.07-00.33.15:536][581]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.05.07-00.33.27:386][171]LogContentBrowser: Attempting asset rename: NewBlueprint -> SWO_GameMode
+[2021.05.07-00.33.27:406][171]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.05.07-00.33.29:377][266]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.07-00.33.58:265][955]LogSlate: Took 0.010506 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.05.07-00.34.04:297][308]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.07-00.34.04:395][308]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2021.05.07-00.34.05:033][343]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameModeC01DB6EE4D6FABC7FB7FF0B73EB983D2.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.07-00.34.05:056][343]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.07-00.34.05:056][343]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.07-00.34.50:266][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2021.05.07-00.34.50:268][ 40]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.059
+[2021.05.07-00.34.50:269][ 40]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/SWO_GameMode] ([1] browsable assets)...
+[2021.05.07-00.34.50:269][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/SWO_GameMode]
+[2021.05.07-00.34.50:275][ 40]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameMode_Auto3CC94BE9E43E64B9ABDDFF3851A0EF0C7.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SWO_GameMode_Auto3.uasset'
+[2021.05.07-00.34.50:275][ 40]LogFileHelpers: Auto-saving content packages took 0.007
+[2021.05.07-00.35.47:693][473]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.07-00.35.47:795][473]LogUObjectHash: Compacting FUObjectHashTables data took   6.96ms
+[2021.05.07-00.35.48:511][513]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameModeA712809C4C9E1FA4EF6ACAAEE6522C97.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.07-00.35.48:531][513]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.07-00.35.48:531][513]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.07-00.36.04:720][482]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.07-00.36.04:803][482]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2021.05.07-00.36.05:239][505]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameModeAC9115874953F7E5BB494BAF95C1E11C.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.07-00.36.05:260][505]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.07-00.36.05:260][505]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.07-00.38.02:881][492]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.07-00.38.02:972][492]LogUObjectHash: Compacting FUObjectHashTables data took   6.97ms
+[2021.05.07-00.38.03:681][530]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameMode69507B4942B99B69F4060C8F54F14D36.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.07-00.38.03:707][530]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.07-00.38.03:707][530]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.07-00.39.12:086][589]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.07-00.39.12:175][589]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2021.05.07-00.39.12:597][611]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameModeE638B8CA401148BA5F95D2AAE64A24C0.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.07-00.39.12:621][611]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.07-00.39.12:621][611]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.07-00.39.31:655][346]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.07-00.39.31:711][346]LogFMOD: Creating runtime Studio System
+[2021.05.07-00.39.31:713][346]LogFMOD: Default sample rate = 48000
+[2021.05.07-00.39.31:713][346]LogFMOD: System sample rate = 48000
+[2021.05.07-00.39.31:713][346]LogFMOD: Matching system sample rate 48000
+[2021.05.07-00.39.31:746][346]LogFMOD: Loading Banks
+[2021.05.07-00.39.31:746][346]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2021.05.07-00.39.31:782][346]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.07-00.39.31:782][346]PIE: New page: PIE session: ThirdPersonExampleMap (May 6, 2021, 4:39:31 PM)
+[2021.05.07-00.39.31:809][346]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.07-00.39.31:823][346]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013498s)
+[2021.05.07-00.39.31:825][346]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.07-00.39.31:825][346]LogPlayLevel: PIE: World Init took: (0.002464s)
+[2021.05.07-00.39.31:825][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016188s)
+[2021.05.07-00.39.31:904][346]LogUObjectHash: Compacting FUObjectHashTables data took   7.12ms
+[2021.05.07-00.39.31:907][346]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2021.05.07-00.39.31:907][346]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.07-00.39.31:907][346]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.07-00.39.31:907][346]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.07-00.39.31:907][346]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.07-00.39.31:907][346]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.07-00.39.31:907][346]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.07-00.39.31:907][346]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.07-00.39.31:907][346]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.07-00.39.31:907][346]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.07-00.39.31:907][346]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.07-00.39.31:911][346]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.07-00.39.31:911][346]LogAudioMixer: Display: 1: FrontRight
+[2021.05.07-00.39.31:940][346]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.05.07-00.39.31:941][346]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.07-00.39.31:941][346]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.07-00.39.31:941][346]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.07-00.39.31:942][346]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.07-00.39.31:942][346]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.07-00.39.31:942][346]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.07-00.39.31:960][346]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.07-00.39.31:960][346]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.07-00.39.31:960][346]LogInit: FAudioDevice initialized.
+[2021.05.07-00.39.31:960][346]LogAudio: Display: Audio Device (ID: 29) registered with world 'ThirdPersonExampleMap'.
+[2021.05.07-00.39.31:969][346]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.07-00.39.31:971][346]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.05.06-20.39.31
+[2021.05.07-00.39.31:971][346]LogWorld: Bringing up level for play took: 0.001588
+[2021.05.07-00.39.31:972][346]LogOnline: OSS: Creating online subsystem instance for: :Context_84
+[2021.05.07-00.39.31:974][346]PIE: Server logged in
+[2021.05.07-00.39.31:975][346]PIE: Play in editor total start time 0.311 seconds.
+[2021.05.07-00.39.35:608][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.07-00.39.35:608][552]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.07-00.39.35:608][552]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-00.39.35:608][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-00.39.35:625][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.07-00.39.35:694][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-00.39.35:750][552]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.07-00.39.35:751][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.07-00.39.35:752][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.07-00.39.35:808][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.07-00.39.35:814][552]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2021.05.07-00.39.35:889][553]LogPlayLevel: Display: Destroying online subsystem :Context_84
