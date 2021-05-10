@@ -1275,3 +1275,55 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.10-15.54.06:608][431]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/winter_lowpoly_tree_pack.winter_lowpoly_tree_pack
 [2021.05.10-15.54.06:608][431]LogContentValidation: Display: Validating Material /Game/Geometry/Meshes/defaultMat.defaultMat
 [2021.05.10-15.54.06:608][431]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/uploads_files_72533_winter.uploads_files_72533_winter
+[2021.05.10-19.53.41:080][292]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/karen/Downloads/uploads_files_670983_snow+base.fbx)
+[2021.05.10-19.53.41:087][292]LogFbx: Loading FBX Scene from ../../../../../../Users/karen/Downloads/uploads_files_670983_snow+base.fbx
+[2021.05.10-19.53.41:094][292]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.10-19.53.45:827][292]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.05.10-19.53.45:840][292]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\Оксана\Desktop\Books\blender\Textures\snezi.jpg
+[2021.05.10-19.53.45:841][292]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2021.05.10-19.53.45:847][292]LogFbx: Display: Triangulating static mesh Cube
+[2021.05.10-19.53.45:904][292]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.05.10-19.53.45:904][292]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.10-19.53.45:904][292]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.05.10-19.53.45:904][292]LogStaticMesh: Building static mesh uploads_files_670983_snow+base...
+[2021.05.10-19.53.45:926][292]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/uploads_files_670983_snow+base.uploads_files_670983_snow+base
+[2021.05.10-19.53.45:944][292]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.05.10-19.53.48:656][489]LogActorFactory: Actor Factory created uploads_files_670983_snow+base
+[2021.05.10-19.53.52:404][903]LogActorFactory: Actor Factory created uploads_files_670983_snow+base
+[2021.05.10-19.53.52:551][916]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.05.10-19.54.15:830][698]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.05.10-19.54.30:107][402]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (uploads_files_670983_snow+base)
+[2021.05.10-19.54.40:028][569]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.05.10-19.55.07:885][863]LogSlate: Window 'Message Log' being destroyed
+[2021.05.10-19.55.07:893][863]LogSlate: Window 'Message Log' being destroyed
+[2021.05.10-19.55.39:406][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (uploads_files_72533_winter)
+[2021.05.10-19.55.46:319][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (uploads_files_670983_snow+base)
+[2021.05.10-19.55.53:315][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.10-19.55.54:240][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (uploads_files_670983_snow+base)
+[2021.05.10-19.56.31:171][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.05.10-19.56.31:184][755]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/World_Auto2838B86EE4FF2A9148853C6ABB1445A06.tmp' to '../../../../../../Users/karen/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/Autosaves/Game/Levels/World_Auto2.umap'
+[2021.05.10-19.56.31:185][755]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/World' took 0.021
+[2021.05.10-19.56.31:186][755]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.021
+[2021.05.10-19.56.31:186][755]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/uploads_files_670983_snow+base] ([1] browsable assets)...
+[2021.05.10-19.56.31:193][755]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Meshes/uploads_files_670983_snow+base.uploads_files_670983_snow+base]
+[2021.05.10-19.56.31:193][755]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/uploads_files_670983_snow+base]
+[2021.05.10-19.56.31:205][755]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/uploads_files_670983_snow+base_A3A8051504880D6F34757E9ABAAAF1F53.tmp' to '../../../../../../Users/karen/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/Autosaves/Game/Geometry/Meshes/uploads_files_670983_snow+base_Auto2.uasset'
+[2021.05.10-19.56.31:206][755]LogFileHelpers: Auto-saving content packages took 0.021
+[2021.05.10-19.59.15:264][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (uploads_files_670983_snow+base)
+[2021.05.10-20.06.31:510][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.05.10-20.06.31:524][301]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/World_Auto3775E1607491B6B1DA2EBAC87C0A69B16.tmp' to '../../../../../../Users/karen/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/Autosaves/Game/Levels/World_Auto3.umap'
+[2021.05.10-20.06.31:525][301]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/World' took 0.020
+[2021.05.10-20.06.31:525][301]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.020
+[2021.05.10-21.10.01:148][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/World" FILE="../../../../../../Users/karen/Documents/GitHub/SnowWayOut/SnowWayOut/Content/Levels/World.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.10-21.10.01:153][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.05.10-21.10.01:166][753]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/World421C9D8B484FD60F168B638B934049DD.tmp' to '../../../../../../Users/karen/Documents/GitHub/SnowWayOut/SnowWayOut/Content/Levels/World.umap'
+[2021.05.10-21.10.01:183][753]AssetCheck: New page: Asset Save: World
+[2021.05.10-21.10.01:183][753]LogContentValidation: Display: Validating World /Game/Levels/World.World
+[2021.05.10-21.10.03:174][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.05.10-21.10.04:863][971]LogSlate: Window 'Save Content' being destroyed
+[2021.05.10-21.10.04:904][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Material" FILE="../../../../../../Users/karen/Documents/GitHub/SnowWayOut/SnowWayOut/Content/Geometry/Meshes/Material.uasset" SILENT=true
+[2021.05.10-21.10.04:908][971]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/MaterialEC723B71420A742BA4C790B19B9F9B52.tmp' to '../../../../../../Users/karen/Documents/GitHub/SnowWayOut/SnowWayOut/Content/Geometry/Meshes/Material.uasset'
+[2021.05.10-21.10.04:918][971]LogSavePackage: Moving '../../../../../../Users/karen/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/uploads_files_670983_snow+baseDCA34CE44229D82769436A985E016B06.tmp' to '../../../../../../Users/karen/Documents/GitHub/SnowWayOut/SnowWayOut/Content/Geometry/Meshes/uploads_files_670983_snow+base.uasset'
+[2021.05.10-21.10.04:934][971]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.10-21.10.04:934][971]LogContentValidation: Display: Validating Material /Game/Geometry/Meshes/Material.Material
+[2021.05.10-21.10.04:934][971]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/uploads_files_670983_snow+base.uploads_files_670983_snow+base
