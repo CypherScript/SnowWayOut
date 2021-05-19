@@ -1138,3 +1138,39 @@ It is recommended that you free some space to avoid issues such as crashed and d
 [2021.05.19-13.24.47:447][381]LogContentValidation: Display: Validating World /Game/Levels/World.World
 [2021.05.19-13.24.49:034][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
 [2021.05.19-13.24.50:161][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.05.19-13.28.08:100][393]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{581edc74-2cb1-4457-95ec-be8468a10c5f}.
+[2021.05.19-13.28.08:100][393]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.19-13.28.08:140][393]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-13.28.08:140][393]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-13.28.08:433][394]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{57788a3a-ec62-4c4b-a6d1-af69635e9b64}.
+[2021.05.19-13.28.08:433][394]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.19-13.28.08:466][394]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-13.28.08:466][394]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-13.28.19:190][427]LogFMOD: Error: e:\jk\workspace\2.1_UE4.26_Win64\core_api\platforms\win\src\fmod_output_wasapi.cpp(538) - GetCurrentPadding returned 0x88890004.  Device was unplugged!
+
+[2021.05.19-13.28.19:190][427]LogFMOD: Error: e:\jk\workspace\2.1_UE4.26_Win64\core_api\platforms\win\src\fmod_output_wasapi.cpp(538) - GetCurrentPadding returned 0x88890004.  Device was unplugged!
+
+[2021.05.19-13.28.19:524][428]LogFMOD: Error: e:\jk\workspace\2.1_UE4.26_Win64\core_api\platforms\win\src\fmod_output_wasapi.cpp(538) - GetCurrentPadding returned 0x88890004.  Device was unplugged!
+
+[2021.05.19-13.42.49:796][ 21]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{7330e89d-ebe6-41a8-8acd-73fed2fede61}.
+[2021.05.19-13.42.49:796][ 21]LogFMOD: Error: e:\jk\workspace\2.1_UE4.26_Win64\core_api\platforms\win\src\fmod_output_wasapi.cpp(538) - GetCurrentPadding returned 0x88890004.  Device was unplugged!
+
+[2021.05.19-13.42.49:796][ 21]LogFMOD: Error: e:\jk\workspace\2.1_UE4.26_Win64\core_api\platforms\win\src\fmod_output_wasapi.cpp(538) - GetCurrentPadding returned 0x88890004.  Device was unplugged!
+
+[2021.05.19-13.42.49:796][ 21]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.19-13.42.49:863][ 21]LogFMOD: Error: e:\jk\workspace\2.1_UE4.26_Win64\core_api\platforms\win\src\fmod_output_wasapi.cpp(538) - GetCurrentPadding returned 0x88890004.  Device was unplugged!
+
+[2021.05.19-13.42.49:863][ 21]LogFMOD: Error: e:\jk\workspace\2.1_UE4.26_Win64\core_api\platforms\win\src\fmod_output_wasapi.cpp(538) - GetCurrentPadding returned 0x88890004.  Device was unplugged!
+
+[2021.05.19-13.42.49:863][ 21]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-13.42.49:863][ 21]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-19.03.36:175][406]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{57788a3a-ec62-4c4b-a6d1-af69635e9b64}.
+[2021.05.19-19.03.36:176][406]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.19-19.03.36:239][406]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-19.03.36:239][406]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-19.03.36:239][406]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.19-19.03.36:239][406]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.19-19.03.36:239][406]LogAudioMixer: Display: 4: BackLeft
+[2021.05.19-19.03.36:239][406]LogAudioMixer: Display: 5: BackRight
+[2021.05.19-19.03.36:239][406]LogAudioMixer: Display: 6: SideLeft
+[2021.05.19-19.03.36:239][406]LogAudioMixer: Display: 7: SideRight
