@@ -3535,3 +3535,1370 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.25-01.18.56:601][280]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameMode8C2DF46043B7203A87285F9085EC1B74.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
 [2021.05.25-01.18.56:626][280]AssetCheck: New page: Asset Save: SWO_GameMode
 [2021.05.25-01.18.56:626][280]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.25-01.21.55:308][819]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.25-01.21.55:425][819]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2021.05.25-01.21.56:469][900]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameMode5FC85FD646695C7AD3DB4383A34FFC87.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.25-01.21.56:490][900]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.25-01.21.56:490][900]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.25-01.22.17:491][662]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.25-01.22.17:606][662]LogUObjectHash: Compacting FUObjectHashTables data took   6.86ms
+[2021.05.25-01.22.18:720][749]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameMode7D1388744F22B2689E5693BF1DA55D8D.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.25-01.22.18:745][749]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.25-01.22.18:745][749]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.25-01.22.25:179][307]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.25-01.22.25:295][307]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2021.05.25-01.22.25:718][337]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameModeC46084DD485B573E2E5BFF869378BA4A.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.25-01.22.25:741][337]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.25-01.22.25:741][337]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.25-01.22.41:502][703]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.25-01.22.41:619][703]LogUObjectHash: Compacting FUObjectHashTables data took   6.46ms
+[2021.05.25-01.22.42:301][756]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameModeA0882DD84B5473142037EDAB1CFCAE8D.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.25-01.22.42:328][756]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.25-01.22.42:328][756]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.25-01.23.37:619][284]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.25-01.23.37:631][284]LogBlueprint: Error: [AssetLog] C:\Users\ericc\OneDrive\Documents\GitHub\SnowWayOut\SnowWayOut\Content\ThirdPersonBP\Blueprints\SWO_GameMode.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To EnemyPlayer  to imply a specific type.
+[2021.05.25-01.23.37:632][284]LogBlueprint: Error: [AssetLog] C:\Users\ericc\OneDrive\Documents\GitHub\SnowWayOut\SnowWayOut\Content\ThirdPersonBP\Blueprints\SWO_GameMode.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2021.05.25-01.23.37:741][284]LogUObjectHash: Compacting FUObjectHashTables data took   6.45ms
+[2021.05.25-01.23.38:193][315]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameMode618708C74EABA8D32A72278483E6D7EF.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.25-01.23.38:214][315]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.25-01.23.38:214][315]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.25-01.24.54:725][453]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.25-01.24.54:848][453]LogUObjectHash: Compacting FUObjectHashTables data took   6.45ms
+[2021.05.25-01.24.55:559][507]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameMode0316C65949F84940CE3B6B8C5B19A61F.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.25-01.24.55:583][507]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.25-01.24.55:583][507]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.25-01.25.30:741][329]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.25-01.25.30:864][329]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2021.05.25-01.25.31:362][363]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameMode3CF5BE3444B4B28D1A18818533FC501C.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.25-01.25.31:384][363]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.25-01.25.31:384][363]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.25-01.26.05:379][153]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.25-01.26.05:492][153]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2021.05.25-01.26.06:316][211]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameMode2452168947A55CEF5AF049969CBD6F80.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.25-01.26.06:338][211]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.25-01.26.06:338][211]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.25-01.26.14:038][825]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-01.26.14:038][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.26.23:391][268]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.25-01.26.44:378][927]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.25-01.26.44:498][927]LogUObjectHash: Compacting FUObjectHashTables data took   5.97ms
+[2021.05.25-01.26.45:138][970]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameMode6E49DF1C47B8B73F9B505CAA13ED8200.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.25-01.26.45:154][970]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.25-01.26.45:154][970]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.25-01.26.56:402][907]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.25-01.26.56:452][907]LogFMOD: Creating runtime Studio System
+[2021.05.25-01.26.56:464][907]LogFMOD: Default sample rate = 48000
+[2021.05.25-01.26.56:464][907]LogFMOD: System sample rate = 48000
+[2021.05.25-01.26.56:464][907]LogFMOD: Matching system sample rate 48000
+[2021.05.25-01.26.56:514][907]LogFMOD: Loading Banks
+[2021.05.25-01.26.56:514][907]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/BGM.bank
+[2021.05.25-01.26.56:514][907]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/SFX.bank
+[2021.05.25-01.26.56:514][907]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/UI.bank
+[2021.05.25-01.26.56:553][907]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.25-01.26.56:553][907]PIE: New page: PIE session: World (May 24, 2021, 5:26:56 PM)
+[2021.05.25-01.26.56:553][907]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_World
+[2021.05.25-01.26.56:569][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016121s)
+[2021.05.25-01.26.56:571][907]LogAIModule: Creating AISystem for world World
+[2021.05.25-01.26.56:571][907]LogPlayLevel: PIE: World Init took: (0.002130s)
+[2021.05.25-01.26.56:571][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/World.World to /Game/Levels/UEDPIE_0_World.World (0.018466s)
+[2021.05.25-01.26.56:662][907]LogUObjectHash: Compacting FUObjectHashTables data took   7.09ms
+[2021.05.25-01.26.56:664][907]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2021.05.25-01.26.56:664][907]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-01.26.56:664][907]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-01.26.56:664][907]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-01.26.56:664][907]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-01.26.56:664][907]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-01.26.56:664][907]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-01.26.56:664][907]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-01.26.56:664][907]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-01.26.56:664][907]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-01.26.56:664][907]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-01.26.56:668][907]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-01.26.56:668][907]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-01.26.56:705][907]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.05.25-01.26.56:706][907]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-01.26.56:706][907]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-01.26.56:706][907]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-01.26.56:706][907]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-01.26.56:706][907]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-01.26.56:706][907]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-01.26.56:729][907]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-01.26.56:729][907]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-01.26.56:729][907]LogInit: FAudioDevice initialized.
+[2021.05.25-01.26.56:729][907]LogAudio: Display: Audio Device (ID: 31) registered with world 'World'.
+[2021.05.25-01.26.56:742][907]LogLoad: Game class is 'SWO_GameMode_C'
+[2021.05.25-01.26.56:746][907]LogWorld: Bringing World /Game/Levels/UEDPIE_0_World.World up for play (max tick rate 0) at 2021.05.24-21.26.56
+[2021.05.25-01.26.56:747][907]LogWorld: Bringing up level for play took: 0.003159
+[2021.05.25-01.26.56:747][907]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2021.05.25-01.26.56:749][907]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-01.26.56:749][907]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-01.26.56:749][907]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-01.26.56:750][907]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.25-01.26.56:752][907]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-01.26.56:752][907]PIE: Server logged in
+[2021.05.25-01.26.56:753][907]PIE: Play in editor total start time 0.338 seconds.
+[2021.05.25-01.28.18:720][128]LogCharacterMovement: ThirdPersonCharacter_167 is stuck and failed to move! Velocity: X=142.09 Y=0.00 Z=0.00 Location: X=-573.22 Y=326.31 Z=219.02 Normal: X=-0.65 Y=0.22 Z=-0.73 PenetrationDepth:13.921 Actor:FirstPersonProjectile_C_42 Component:Sphere BoneName:None (0 other events since notify)
+[2021.05.25-01.29.00:919][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-01.29.00:920][323]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_World
+[2021.05.25-01.29.00:920][323]LogWorld: UWorld::CleanupWorld for World, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-01.29.00:921][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.29.01:012][323]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.25-01.29.01:045][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.29.01:143][323]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.25-01.29.01:143][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-01.29.01:145][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-01.29.01:198][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-01.29.01:208][323]LogUObjectHash: Compacting FUObjectHashTables data took   7.52ms
+[2021.05.25-01.29.01:312][324]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2021.05.25-01.29.19:171][694]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.25-01.29.19:284][694]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2021.05.25-01.29.19:783][727]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameModeF553AA45454412AF3E16879B64A2AF45.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.25-01.29.19:806][727]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.25-01.29.19:806][727]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.25-01.29.21:314][819]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.25-01.29.21:373][819]LogFMOD: Creating runtime Studio System
+[2021.05.25-01.29.21:384][819]LogFMOD: Default sample rate = 48000
+[2021.05.25-01.29.21:384][819]LogFMOD: System sample rate = 48000
+[2021.05.25-01.29.21:384][819]LogFMOD: Matching system sample rate 48000
+[2021.05.25-01.29.21:436][819]LogFMOD: Loading Banks
+[2021.05.25-01.29.21:436][819]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/BGM.bank
+[2021.05.25-01.29.21:436][819]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/SFX.bank
+[2021.05.25-01.29.21:436][819]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/UI.bank
+[2021.05.25-01.29.21:472][819]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.25-01.29.21:472][819]PIE: New page: PIE session: World (May 24, 2021, 5:29:21 PM)
+[2021.05.25-01.29.21:472][819]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_World
+[2021.05.25-01.29.21:486][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013896s)
+[2021.05.25-01.29.21:487][819]LogAIModule: Creating AISystem for world World
+[2021.05.25-01.29.21:487][819]LogPlayLevel: PIE: World Init took: (0.001463s)
+[2021.05.25-01.29.21:487][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/World.World to /Game/Levels/UEDPIE_0_World.World (0.015554s)
+[2021.05.25-01.29.21:569][819]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2021.05.25-01.29.21:571][819]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2021.05.25-01.29.21:571][819]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-01.29.21:571][819]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-01.29.21:571][819]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-01.29.21:571][819]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-01.29.21:571][819]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-01.29.21:571][819]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-01.29.21:571][819]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-01.29.21:571][819]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-01.29.21:572][819]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-01.29.21:572][819]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-01.29.21:575][819]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-01.29.21:575][819]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-01.29.21:610][819]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.05.25-01.29.21:610][819]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-01.29.21:610][819]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-01.29.21:610][819]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-01.29.21:611][819]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-01.29.21:611][819]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-01.29.21:611][819]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-01.29.21:631][819]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-01.29.21:631][819]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-01.29.21:631][819]LogInit: FAudioDevice initialized.
+[2021.05.25-01.29.21:631][819]LogAudio: Display: Audio Device (ID: 32) registered with world 'World'.
+[2021.05.25-01.29.21:641][819]LogLoad: Game class is 'SWO_GameMode_C'
+[2021.05.25-01.29.21:645][819]LogWorld: Bringing World /Game/Levels/UEDPIE_0_World.World up for play (max tick rate 0) at 2021.05.24-21.29.21
+[2021.05.25-01.29.21:645][819]LogWorld: Bringing up level for play took: 0.002654
+[2021.05.25-01.29.21:645][819]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2021.05.25-01.29.21:648][819]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-01.29.21:648][819]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-01.29.21:648][819]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-01.29.21:648][819]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.25-01.29.21:650][819]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-01.29.21:650][819]PIE: Server logged in
+[2021.05.25-01.29.21:651][819]PIE: Play in editor total start time 0.322 seconds.
+[2021.05.25-01.30.18:090][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-01.30.18:090][134]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_World
+[2021.05.25-01.30.18:091][134]LogWorld: UWorld::CleanupWorld for World, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-01.30.18:091][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.30.18:109][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.25-01.30.18:136][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.30.18:189][134]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.25-01.30.18:189][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-01.30.18:190][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-01.30.18:246][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-01.30.18:262][134]LogUObjectHash: Compacting FUObjectHashTables data took  11.92ms
+[2021.05.25-01.30.18:334][135]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2021.05.25-01.31.32:370][566]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.25-01.31.32:423][566]LogFMOD: Creating runtime Studio System
+[2021.05.25-01.31.32:426][566]LogFMOD: Default sample rate = 48000
+[2021.05.25-01.31.32:426][566]LogFMOD: System sample rate = 48000
+[2021.05.25-01.31.32:426][566]LogFMOD: Matching system sample rate 48000
+[2021.05.25-01.31.32:473][566]LogFMOD: Loading Banks
+[2021.05.25-01.31.32:474][566]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/BGM.bank
+[2021.05.25-01.31.32:474][566]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/SFX.bank
+[2021.05.25-01.31.32:474][566]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/UI.bank
+[2021.05.25-01.31.32:514][566]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.25-01.31.32:514][566]PIE: New page: PIE session: World (May 24, 2021, 5:31:32 PM)
+[2021.05.25-01.31.32:514][566]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_World
+[2021.05.25-01.31.32:551][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036660s)
+[2021.05.25-01.31.32:557][566]LogAIModule: Creating AISystem for world World
+[2021.05.25-01.31.32:558][566]LogPlayLevel: PIE: World Init took: (0.005925s)
+[2021.05.25-01.31.32:558][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/World.World to /Game/Levels/UEDPIE_0_World.World (0.043525s)
+[2021.05.25-01.31.32:678][566]LogUObjectHash: Compacting FUObjectHashTables data took   7.32ms
+[2021.05.25-01.31.32:682][566]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2021.05.25-01.31.32:682][566]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-01.31.32:682][566]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-01.31.32:682][566]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-01.31.32:682][566]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-01.31.32:682][566]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-01.31.32:682][566]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-01.31.32:682][566]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-01.31.32:682][566]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-01.31.32:683][566]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-01.31.32:683][566]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-01.31.32:688][566]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-01.31.32:689][566]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-01.31.32:728][566]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.05.25-01.31.32:728][566]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-01.31.32:729][566]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-01.31.32:729][566]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-01.31.32:729][566]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-01.31.32:729][566]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-01.31.32:729][566]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-01.31.32:747][566]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-01.31.32:747][566]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-01.31.32:747][566]LogInit: FAudioDevice initialized.
+[2021.05.25-01.31.32:747][566]LogAudio: Display: Audio Device (ID: 33) registered with world 'World'.
+[2021.05.25-01.31.32:767][566]LogLoad: Game class is 'SWO_GameMode_C'
+[2021.05.25-01.31.32:772][566]LogWorld: Bringing World /Game/Levels/UEDPIE_0_World.World up for play (max tick rate 0) at 2021.05.24-21.31.32
+[2021.05.25-01.31.32:773][566]LogWorld: Bringing up level for play took: 0.004245
+[2021.05.25-01.31.32:773][566]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2021.05.25-01.31.32:775][566]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-01.31.32:775][566]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-01.31.32:775][566]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-01.31.32:775][566]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.25-01.31.32:776][566]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-01.31.32:776][566]PIE: Server logged in
+[2021.05.25-01.31.32:777][566]PIE: Play in editor total start time 0.387 seconds.
+[2021.05.25-01.31.45:274][459]LogCharacterMovement: ThirdPersonCharacter_167 is stuck and failed to move! Velocity: X=34.00 Y=48.69 Z=0.00 Location: X=-492.95 Y=318.54 Z=254.39 Normal: X=0.05 Y=-0.64 Z=-0.77 PenetrationDepth:7.574 Actor:FirstPersonProjectile_C_6 Component:Sphere BoneName:None (0 other events since notify)
+[2021.05.25-01.32.20:146][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-01.32.20:146][254]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_World
+[2021.05.25-01.32.20:147][254]LogWorld: UWorld::CleanupWorld for World, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-01.32.20:148][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.32.20:172][254]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.25-01.32.20:200][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.32.20:256][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-01.32.20:256][254]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-01.32.20:258][254]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-01.32.20:311][254]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.05.25-01.32.20:369][255]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2021.05.25-01.32.40:299][828]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.25-01.32.40:410][828]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2021.05.25-01.32.41:068][876]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameModeCC1D721849F307CE47F3A583DE5EDFEB.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.25-01.32.41:094][876]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.25-01.32.41:094][876]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.25-01.32.47:715][408]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.25-01.32.47:774][408]LogFMOD: Creating runtime Studio System
+[2021.05.25-01.32.47:776][408]LogFMOD: Default sample rate = 48000
+[2021.05.25-01.32.47:776][408]LogFMOD: System sample rate = 48000
+[2021.05.25-01.32.47:776][408]LogFMOD: Matching system sample rate 48000
+[2021.05.25-01.32.47:807][408]LogFMOD: Loading Banks
+[2021.05.25-01.32.47:807][408]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/BGM.bank
+[2021.05.25-01.32.47:807][408]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/SFX.bank
+[2021.05.25-01.32.47:807][408]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/UI.bank
+[2021.05.25-01.32.47:852][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.25-01.32.47:852][408]PIE: New page: PIE session: World (May 24, 2021, 5:32:47 PM)
+[2021.05.25-01.32.47:852][408]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_World
+[2021.05.25-01.32.47:863][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011177s)
+[2021.05.25-01.32.47:864][408]LogAIModule: Creating AISystem for world World
+[2021.05.25-01.32.47:865][408]LogPlayLevel: PIE: World Init took: (0.001699s)
+[2021.05.25-01.32.47:865][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/World.World to /Game/Levels/UEDPIE_0_World.World (0.013045s)
+[2021.05.25-01.32.47:947][408]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2021.05.25-01.32.47:949][408]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2021.05.25-01.32.47:949][408]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-01.32.47:949][408]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-01.32.47:949][408]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-01.32.47:949][408]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-01.32.47:949][408]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-01.32.47:949][408]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-01.32.47:949][408]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-01.32.47:949][408]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-01.32.47:949][408]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-01.32.47:949][408]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-01.32.47:953][408]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-01.32.47:953][408]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-01.32.47:982][408]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.05.25-01.32.47:983][408]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-01.32.47:983][408]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-01.32.47:983][408]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-01.32.47:983][408]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-01.32.47:983][408]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-01.32.47:983][408]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-01.32.48:000][408]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-01.32.48:000][408]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-01.32.48:000][408]LogInit: FAudioDevice initialized.
+[2021.05.25-01.32.48:000][408]LogAudio: Display: Audio Device (ID: 34) registered with world 'World'.
+[2021.05.25-01.32.48:011][408]LogLoad: Game class is 'SWO_GameMode_C'
+[2021.05.25-01.32.48:014][408]LogWorld: Bringing World /Game/Levels/UEDPIE_0_World.World up for play (max tick rate 0) at 2021.05.24-21.32.48
+[2021.05.25-01.32.48:014][408]LogWorld: Bringing up level for play took: 0.002384
+[2021.05.25-01.32.48:015][408]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2021.05.25-01.32.48:017][408]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-01.32.48:017][408]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-01.32.48:017][408]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-01.32.48:017][408]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.25-01.32.48:018][408]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-01.32.48:018][408]PIE: Server logged in
+[2021.05.25-01.32.48:019][408]PIE: Play in editor total start time 0.291 seconds.
+[2021.05.25-01.33.50:346][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-01.33.50:347][200]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_World
+[2021.05.25-01.33.50:347][200]LogWorld: UWorld::CleanupWorld for World, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-01.33.50:347][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.33.50:357][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.25-01.33.50:379][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.33.50:439][200]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.25-01.33.50:440][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-01.33.50:441][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-01.33.50:499][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-01.33.50:503][200]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.05.25-01.33.50:559][201]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2021.05.25-01.33.58:624][577]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.05.25-01.34.06:255][893]LogSlate: Window 'Project Settings' being destroyed
+[2021.05.25-01.34.06:266][893]LogSlate: Window 'Project Settings' being destroyed
+[2021.05.25-01.34.07:635][955]LogUObjectHash: Compacting FUObjectHashTables data took   6.55ms
+[2021.05.25-01.34.07:664][955]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/World06952B9A47F747153D109A8B8747E933.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/Levels/World.umap'
+[2021.05.25-01.34.07:700][955]AssetCheck: New page: Asset Save: World
+[2021.05.25-01.34.07:700][955]LogContentValidation: Display: Validating World /Game/Levels/World.World
+[2021.05.25-01.34.21:308][ 41]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.25-01.34.21:465][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   8.89ms
+[2021.05.25-01.34.22:018][ 74]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameModeE38EDAC049B66B751936EFABDEC8EDD5.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.25-01.34.22:044][ 74]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.25-01.34.22:044][ 74]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.25-01.34.23:647][165]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.25-01.34.23:703][165]LogFMOD: Creating runtime Studio System
+[2021.05.25-01.34.23:705][165]LogFMOD: Default sample rate = 48000
+[2021.05.25-01.34.23:705][165]LogFMOD: System sample rate = 48000
+[2021.05.25-01.34.23:705][165]LogFMOD: Matching system sample rate 48000
+[2021.05.25-01.34.23:737][165]LogFMOD: Loading Banks
+[2021.05.25-01.34.23:737][165]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/BGM.bank
+[2021.05.25-01.34.23:737][165]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/SFX.bank
+[2021.05.25-01.34.23:737][165]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/UI.bank
+[2021.05.25-01.34.23:783][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.25-01.34.23:783][165]PIE: New page: PIE session: World (May 24, 2021, 5:34:23 PM)
+[2021.05.25-01.34.23:783][165]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_World
+[2021.05.25-01.34.23:793][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010291s)
+[2021.05.25-01.34.23:795][165]LogAIModule: Creating AISystem for world World
+[2021.05.25-01.34.23:795][165]LogPlayLevel: PIE: World Init took: (0.001925s)
+[2021.05.25-01.34.23:795][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/World.World to /Game/Levels/UEDPIE_0_World.World (0.012396s)
+[2021.05.25-01.34.23:892][165]LogUObjectHash: Compacting FUObjectHashTables data took   7.29ms
+[2021.05.25-01.34.23:894][165]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2021.05.25-01.34.23:894][165]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-01.34.23:894][165]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-01.34.23:894][165]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-01.34.23:894][165]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-01.34.23:894][165]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-01.34.23:894][165]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-01.34.23:894][165]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-01.34.23:894][165]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-01.34.23:894][165]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-01.34.23:894][165]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-01.34.23:898][165]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-01.34.23:898][165]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-01.34.23:927][165]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.05.25-01.34.23:927][165]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-01.34.23:927][165]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-01.34.23:927][165]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-01.34.23:928][165]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-01.34.23:928][165]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-01.34.23:928][165]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-01.34.23:945][165]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-01.34.23:945][165]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-01.34.23:945][165]LogInit: FAudioDevice initialized.
+[2021.05.25-01.34.23:945][165]LogAudio: Display: Audio Device (ID: 35) registered with world 'World'.
+[2021.05.25-01.34.23:952][165]LogLoad: Game class is 'SWO_GameMode_C'
+[2021.05.25-01.34.23:955][165]LogWorld: Bringing World /Game/Levels/UEDPIE_0_World.World up for play (max tick rate 0) at 2021.05.24-21.34.23
+[2021.05.25-01.34.23:955][165]LogWorld: Bringing up level for play took: 0.002362
+[2021.05.25-01.34.23:955][165]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2021.05.25-01.34.23:957][165]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-01.34.23:957][165]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-01.34.23:957][165]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-01.34.23:958][165]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.25-01.34.23:959][165]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-01.34.23:959][165]PIE: Server logged in
+[2021.05.25-01.34.23:960][165]PIE: Play in editor total start time 0.3 seconds.
+[2021.05.25-01.34.23:960][165]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.23:985][166]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:026][167]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:038][168]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:053][169]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:066][170]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:080][171]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:092][172]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:106][173]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:118][174]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:132][175]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:145][176]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:159][177]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:173][178]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:187][179]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:203][180]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:217][181]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:231][182]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:244][183]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:259][184]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:273][185]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:286][186]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:299][187]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:312][188]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:326][189]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:340][190]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:354][191]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:366][192]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:379][193]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:394][194]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:407][195]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:421][196]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:436][197]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:450][198]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:465][199]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:479][200]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:491][201]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:504][202]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:518][203]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:531][204]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:546][205]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:559][206]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:572][207]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:586][208]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:599][209]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:612][210]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:625][211]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:639][212]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:653][213]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:667][214]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:681][215]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:695][216]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:709][217]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:723][218]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:736][219]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:749][220]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:762][221]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:776][222]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:789][223]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:802][224]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:816][225]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:829][226]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:841][227]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:857][228]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:870][229]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:883][230]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:897][231]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:910][232]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:923][233]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:936][234]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:950][235]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:963][236]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:977][237]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.24:989][238]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:005][239]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:020][240]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:036][241]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:050][242]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:064][243]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:078][244]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:092][245]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:106][246]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:120][247]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:133][248]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:146][249]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:159][250]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:171][251]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:184][252]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:197][253]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:209][254]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:225][255]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:238][256]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:250][257]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:263][258]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:276][259]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:289][260]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:302][261]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:316][262]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:330][263]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:346][264]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:361][265]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:374][266]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:387][267]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:400][268]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:414][269]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:427][270]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:440][271]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:453][272]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:468][273]LogBlueprintUserMessages: [SWO_GameMode_C_0] Hello
+[2021.05.25-01.34.25:599][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-01.34.25:599][273]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_World
+[2021.05.25-01.34.25:599][273]LogWorld: UWorld::CleanupWorld for World, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-01.34.25:599][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.34.25:609][273]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.25-01.34.25:633][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.34.25:700][273]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.25-01.34.25:701][273]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-01.34.25:702][273]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-01.34.25:752][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-01.34.25:757][273]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.05.25-01.34.25:818][274]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2021.05.25-01.34.37:680][184]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.25-01.34.37:816][184]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2021.05.25-01.34.38:479][232]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameModeBB09899C4283E0AF4CBF60A4A8571207.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.25-01.34.38:504][232]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.25-01.34.38:504][232]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.25-01.34.40:209][333]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.25-01.34.40:262][333]LogFMOD: Creating runtime Studio System
+[2021.05.25-01.34.40:264][333]LogFMOD: Default sample rate = 48000
+[2021.05.25-01.34.40:264][333]LogFMOD: System sample rate = 48000
+[2021.05.25-01.34.40:264][333]LogFMOD: Matching system sample rate 48000
+[2021.05.25-01.34.40:295][333]LogFMOD: Loading Banks
+[2021.05.25-01.34.40:296][333]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/BGM.bank
+[2021.05.25-01.34.40:296][333]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/SFX.bank
+[2021.05.25-01.34.40:296][333]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/UI.bank
+[2021.05.25-01.34.40:332][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.25-01.34.40:332][333]PIE: New page: PIE session: World (May 24, 2021, 5:34:40 PM)
+[2021.05.25-01.34.40:332][333]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_World
+[2021.05.25-01.34.40:342][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010104s)
+[2021.05.25-01.34.40:344][333]LogAIModule: Creating AISystem for world World
+[2021.05.25-01.34.40:344][333]LogPlayLevel: PIE: World Init took: (0.002112s)
+[2021.05.25-01.34.40:344][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/World.World to /Game/Levels/UEDPIE_0_World.World (0.012398s)
+[2021.05.25-01.34.40:446][333]LogUObjectHash: Compacting FUObjectHashTables data took   7.78ms
+[2021.05.25-01.34.40:448][333]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2021.05.25-01.34.40:448][333]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-01.34.40:448][333]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-01.34.40:448][333]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-01.34.40:448][333]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-01.34.40:448][333]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-01.34.40:448][333]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-01.34.40:448][333]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-01.34.40:448][333]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-01.34.40:448][333]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-01.34.40:448][333]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-01.34.40:451][333]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-01.34.40:451][333]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-01.34.40:480][333]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.05.25-01.34.40:480][333]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-01.34.40:481][333]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-01.34.40:481][333]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-01.34.40:481][333]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-01.34.40:481][333]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-01.34.40:481][333]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-01.34.40:501][333]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-01.34.40:501][333]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-01.34.40:501][333]LogInit: FAudioDevice initialized.
+[2021.05.25-01.34.40:501][333]LogAudio: Display: Audio Device (ID: 36) registered with world 'World'.
+[2021.05.25-01.34.40:512][333]LogLoad: Game class is 'SWO_GameMode_C'
+[2021.05.25-01.34.40:514][333]LogWorld: Bringing World /Game/Levels/UEDPIE_0_World.World up for play (max tick rate 0) at 2021.05.24-21.34.40
+[2021.05.25-01.34.40:515][333]LogWorld: Bringing up level for play took: 0.002090
+[2021.05.25-01.34.40:515][333]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2021.05.25-01.34.40:516][333]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-01.34.40:517][333]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-01.34.40:517][333]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-01.34.40:517][333]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.25-01.34.40:518][333]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-01.34.40:518][333]PIE: Server logged in
+[2021.05.25-01.34.40:519][333]PIE: Play in editor total start time 0.297 seconds.
+[2021.05.25-01.34.40:520][333]LogScript: Warning: Accessed None trying to read property EnemyReference
+	SWO_GameMode_C /Game/Levels/UEDPIE_0_World.World:PersistentLevel.SWO_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode_C:ExecuteUbergraph_SWO_GameMode:012B
+[2021.05.25-01.34.40:520][333]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:520][333]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:542][334]LogScript: Warning: Accessed None trying to read property EnemyReference
+	SWO_GameMode_C /Game/Levels/UEDPIE_0_World.World:PersistentLevel.SWO_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode_C:ExecuteUbergraph_SWO_GameMode:012B
+[2021.05.25-01.34.40:542][334]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:542][334]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:574][335]LogScript: Warning: Accessed None trying to read property EnemyReference
+	SWO_GameMode_C /Game/Levels/UEDPIE_0_World.World:PersistentLevel.SWO_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode_C:ExecuteUbergraph_SWO_GameMode:012B
+[2021.05.25-01.34.40:574][335]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:574][335]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:586][336]LogScript: Warning: Accessed None trying to read property EnemyReference
+	SWO_GameMode_C /Game/Levels/UEDPIE_0_World.World:PersistentLevel.SWO_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode_C:ExecuteUbergraph_SWO_GameMode:012B
+[2021.05.25-01.34.40:587][336]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:587][336]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:601][337]LogScript: Warning: Accessed None trying to read property EnemyReference
+	SWO_GameMode_C /Game/Levels/UEDPIE_0_World.World:PersistentLevel.SWO_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode_C:ExecuteUbergraph_SWO_GameMode:012B
+[2021.05.25-01.34.40:601][337]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:601][337]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:614][338]LogScript: Warning: Accessed None trying to read property EnemyReference
+	SWO_GameMode_C /Game/Levels/UEDPIE_0_World.World:PersistentLevel.SWO_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode_C:ExecuteUbergraph_SWO_GameMode:012B
+[2021.05.25-01.34.40:614][338]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:614][338]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:627][339]LogScript: Warning: Accessed None trying to read property EnemyReference
+	SWO_GameMode_C /Game/Levels/UEDPIE_0_World.World:PersistentLevel.SWO_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode_C:ExecuteUbergraph_SWO_GameMode:012B
+[2021.05.25-01.34.40:628][339]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:628][339]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:641][340]LogScript: Warning: Accessed None trying to read property EnemyReference
+	SWO_GameMode_C /Game/Levels/UEDPIE_0_World.World:PersistentLevel.SWO_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode_C:ExecuteUbergraph_SWO_GameMode:012B
+[2021.05.25-01.34.40:641][340]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:641][340]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:653][341]LogScript: Warning: Accessed None trying to read property EnemyReference
+	SWO_GameMode_C /Game/Levels/UEDPIE_0_World.World:PersistentLevel.SWO_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode_C:ExecuteUbergraph_SWO_GameMode:012B
+[2021.05.25-01.34.40:653][341]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:653][341]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:666][342]LogScript: Warning: Accessed None trying to read property EnemyReference
+	SWO_GameMode_C /Game/Levels/UEDPIE_0_World.World:PersistentLevel.SWO_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode_C:ExecuteUbergraph_SWO_GameMode:012B
+[2021.05.25-01.34.40:666][342]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:667][342]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:682][343]LogScript: Warning: Accessed None trying to read property EnemyReference
+	SWO_GameMode_C /Game/Levels/UEDPIE_0_World.World:PersistentLevel.SWO_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode_C:ExecuteUbergraph_SWO_GameMode:012B
+[2021.05.25-01.34.40:682][343]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:682][343]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:697][344]LogScript: Warning: Accessed None trying to read property EnemyReference
+	SWO_GameMode_C /Game/Levels/UEDPIE_0_World.World:PersistentLevel.SWO_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode_C:ExecuteUbergraph_SWO_GameMode:012B
+[2021.05.25-01.34.40:697][344]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:697][344]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:710][345]LogScript: Warning: Accessed None trying to read property EnemyReference
+	SWO_GameMode_C /Game/Levels/UEDPIE_0_World.World:PersistentLevel.SWO_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode_C:ExecuteUbergraph_SWO_GameMode:012B
+[2021.05.25-01.34.40:711][345]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:711][345]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:726][346]LogScript: Warning: Accessed None trying to read property EnemyReference
+	SWO_GameMode_C /Game/Levels/UEDPIE_0_World.World:PersistentLevel.SWO_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode_C:ExecuteUbergraph_SWO_GameMode:012B
+[2021.05.25-01.34.40:726][346]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:726][346]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:741][347]LogScript: Warning: Accessed None trying to read property EnemyReference
+	SWO_GameMode_C /Game/Levels/UEDPIE_0_World.World:PersistentLevel.SWO_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode_C:ExecuteUbergraph_SWO_GameMode:012B
+[2021.05.25-01.34.40:741][347]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:741][347]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:755][348]LogScript: Warning: Accessed None trying to read property EnemyReference
+	SWO_GameMode_C /Game/Levels/UEDPIE_0_World.World:PersistentLevel.SWO_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode_C:ExecuteUbergraph_SWO_GameMode:012B
+[2021.05.25-01.34.40:755][348]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:755][348]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:773][349]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:773][349]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:790][350]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:790][350]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:806][351]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:807][351]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:823][352]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:823][352]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:839][353]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:839][353]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:853][354]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:853][354]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:869][355]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:869][355]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:884][356]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:885][356]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:899][357]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:899][357]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:913][358]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:913][358]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:929][359]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:929][359]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:944][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:944][360]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:962][361]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:962][361]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:977][362]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:977][362]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.40:989][363]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.40:989][363]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:004][364]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:004][364]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:019][365]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:019][365]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:036][366]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:036][366]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:051][367]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:051][367]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:064][368]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:064][368]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:077][369]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:077][369]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:090][370]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:090][370]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:104][371]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:104][371]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:116][372]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:117][372]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:130][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:130][373]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:143][374]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:143][374]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:157][375]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:157][375]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:169][376]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:169][376]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:183][377]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:183][377]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:196][378]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:196][378]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:209][379]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:209][379]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:222][380]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:222][380]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:234][381]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:234][381]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:247][382]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:247][382]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:262][383]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:262][383]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:276][384]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:276][384]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:289][385]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:289][385]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:303][386]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:303][386]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:317][387]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:317][387]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:331][388]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:332][388]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:345][389]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:345][389]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:358][390]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:358][390]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:372][391]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:372][391]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:385][392]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:385][392]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:399][393]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:400][393]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:413][394]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:413][394]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:427][395]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:427][395]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:441][396]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:441][396]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:453][397]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:454][397]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:467][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:467][398]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:479][399]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:480][399]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:492][400]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:493][400]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:507][401]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:507][401]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:522][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:523][402]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:536][403]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:536][403]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:551][404]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:551][404]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:564][405]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:564][405]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:578][406]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:578][406]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:590][407]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:590][407]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:602][408]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:603][408]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:615][409]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:615][409]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:629][410]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:629][410]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:641][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:641][411]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:656][412]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:656][412]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:671][413]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:671][413]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:684][414]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:684][414]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:697][415]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:697][415]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:710][416]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:710][416]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:723][417]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:723][417]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:736][418]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:736][418]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:750][419]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:750][419]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:763][420]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:763][420]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:776][421]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:777][421]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:790][422]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:790][422]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:802][423]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:802][423]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:817][424]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:817][424]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:833][425]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:833][425]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:849][426]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:849][426]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:865][427]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:866][427]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:878][428]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:879][428]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:893][429]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:893][429]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:906][430]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:906][430]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:919][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:919][431]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:932][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:932][432]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:946][433]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:946][433]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:958][434]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:958][434]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:972][435]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:972][435]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.41:987][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.41:987][436]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:000][437]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:000][437]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:013][438]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:013][438]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:027][439]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:027][439]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:041][440]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:041][440]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:054][441]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:054][441]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:069][442]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:069][442]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:086][443]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:086][443]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:098][444]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:098][444]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:112][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:112][445]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:125][446]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:125][446]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:138][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:138][447]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:151][448]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:152][448]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:165][449]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:165][449]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:179][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:179][450]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:192][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:192][451]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:206][452]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:206][452]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:219][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:220][453]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:234][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:234][454]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:245][455]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:245][455]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:260][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:260][456]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:273][457]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:273][457]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:286][458]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:286][458]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:299][459]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:299][459]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:311][460]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:311][460]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:325][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:325][461]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:337][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:338][462]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:352][463]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:352][463]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:363][464]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:363][464]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:378][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:378][465]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:392][466]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:392][466]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:407][467]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:407][467]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:420][468]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:420][468]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:434][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:434][469]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:448][470]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:448][470]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:462][471]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:462][471]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:475][472]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:475][472]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:488][473]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:488][473]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:501][474]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:501][474]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:515][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:515][475]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:530][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:530][476]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:544][477]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:545][477]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:558][478]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:559][478]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:572][479]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:572][479]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:585][480]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:585][480]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:597][481]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:597][481]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:611][482]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:611][482]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:624][483]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:624][483]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:638][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:638][484]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:651][485]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:651][485]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:664][486]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:664][486]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:677][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:677][487]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:691][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:691][488]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:703][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:703][489]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:716][490]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:716][490]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:729][491]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:730][491]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:742][492]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:742][492]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:755][493]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:755][493]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:768][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:769][494]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:783][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:783][495]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:797][496]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:797][496]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:810][497]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:811][497]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:824][498]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:824][498]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:838][499]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:838][499]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:852][500]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:852][500]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:865][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:865][501]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:883][502]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:883][502]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:897][503]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:898][503]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:913][504]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:913][504]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:926][505]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:926][505]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:939][506]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:939][506]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:952][507]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:952][507]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:965][508]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:965][508]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:978][509]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:978][509]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.42:990][510]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.42:990][510]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.43:003][511]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.43:003][511]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.43:016][512]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyReference". Blueprint:  SWO_GameMode Function:  Execute Ubergraph SWO Game Mode Graph:  EventGraph Node:  Branch
+[2021.05.25-01.34.43:016][512]LogBlueprintUserMessages: [SWO_GameMode_C_0] PlayerWins
+[2021.05.25-01.34.43:172][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-01.34.43:172][512]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_World
+[2021.05.25-01.34.43:172][512]LogWorld: UWorld::CleanupWorld for World, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-01.34.43:174][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.34.43:202][512]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.25-01.34.43:231][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.34.43:297][512]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.25-01.34.43:298][512]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-01.34.43:299][512]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-01.34.43:334][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-01.34.43:339][512]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2021.05.25-01.34.43:497][513]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2021.05.25-01.34.49:016][767]LogSlate: Window 'Message Log' being destroyed
+[2021.05.25-01.34.49:027][767]LogSlate: Window 'Message Log' being destroyed
+[2021.05.25-01.35.10:485][460]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.25-01.35.10:617][460]LogUObjectHash: Compacting FUObjectHashTables data took   6.61ms
+[2021.05.25-01.35.11:253][501]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameMode6283F26F4BB8C3F123EF78BD794EAFA4.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.25-01.35.11:279][501]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.25-01.35.11:279][501]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.25-01.35.13:660][651]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.25-01.35.13:713][651]LogFMOD: Creating runtime Studio System
+[2021.05.25-01.35.13:724][651]LogFMOD: Default sample rate = 48000
+[2021.05.25-01.35.13:724][651]LogFMOD: System sample rate = 48000
+[2021.05.25-01.35.13:724][651]LogFMOD: Matching system sample rate 48000
+[2021.05.25-01.35.13:762][651]LogFMOD: Loading Banks
+[2021.05.25-01.35.13:763][651]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/BGM.bank
+[2021.05.25-01.35.13:763][651]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/SFX.bank
+[2021.05.25-01.35.13:763][651]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/UI.bank
+[2021.05.25-01.35.13:803][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.25-01.35.13:803][651]PIE: New page: PIE session: World (May 24, 2021, 5:35:13 PM)
+[2021.05.25-01.35.13:803][651]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_World
+[2021.05.25-01.35.13:816][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013050s)
+[2021.05.25-01.35.13:818][651]LogAIModule: Creating AISystem for world World
+[2021.05.25-01.35.13:819][651]LogPlayLevel: PIE: World Init took: (0.003046s)
+[2021.05.25-01.35.13:819][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/World.World to /Game/Levels/UEDPIE_0_World.World (0.016377s)
+[2021.05.25-01.35.13:910][651]LogUObjectHash: Compacting FUObjectHashTables data took   7.16ms
+[2021.05.25-01.35.13:912][651]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2021.05.25-01.35.13:912][651]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-01.35.13:912][651]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-01.35.13:912][651]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-01.35.13:912][651]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-01.35.13:912][651]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-01.35.13:912][651]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-01.35.13:912][651]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-01.35.13:912][651]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-01.35.13:913][651]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-01.35.13:913][651]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-01.35.13:916][651]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-01.35.13:916][651]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-01.35.13:945][651]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.05.25-01.35.13:945][651]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-01.35.13:945][651]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-01.35.13:945][651]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-01.35.13:945][651]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-01.35.13:945][651]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-01.35.13:946][651]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-01.35.13:961][651]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-01.35.13:961][651]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-01.35.13:961][651]LogInit: FAudioDevice initialized.
+[2021.05.25-01.35.13:961][651]LogAudio: Display: Audio Device (ID: 37) registered with world 'World'.
+[2021.05.25-01.35.13:976][651]LogLoad: Game class is 'SWO_GameMode_C'
+[2021.05.25-01.35.13:979][651]LogWorld: Bringing World /Game/Levels/UEDPIE_0_World.World up for play (max tick rate 0) at 2021.05.24-21.35.13
+[2021.05.25-01.35.13:980][651]LogWorld: Bringing up level for play took: 0.002545
+[2021.05.25-01.35.13:980][651]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2021.05.25-01.35.13:981][651]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-01.35.13:981][651]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-01.35.13:981][651]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-01.35.13:981][651]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.25-01.35.13:983][651]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-01.35.13:983][651]PIE: Server logged in
+[2021.05.25-01.35.13:983][651]PIE: Play in editor total start time 0.311 seconds.
+[2021.05.25-01.35.40:318][601]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:333][602]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:345][603]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:364][604]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:379][605]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:392][606]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:406][607]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:421][608]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:435][609]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:449][610]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:463][611]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:476][612]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:491][613]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:507][614]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:522][615]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:537][616]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:551][617]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:566][618]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:583][619]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:597][620]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:611][621]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:625][622]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:639][623]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:654][624]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:668][625]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:683][626]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:696][627]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:713][628]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:730][629]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:747][630]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:762][631]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:777][632]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:791][633]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:804][634]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:818][635]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:833][636]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:845][637]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:860][638]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:874][639]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:889][640]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:904][641]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:917][642]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:933][643]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:947][644]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:961][645]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:975][646]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.40:988][647]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:002][648]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:015][649]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:028][650]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:044][651]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:059][652]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:072][653]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:086][654]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:100][655]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:114][656]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:129][657]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:143][658]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:157][659]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:173][660]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:189][661]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:202][662]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:216][663]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:230][664]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:243][665]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:256][666]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:270][667]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:283][668]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:297][669]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:311][670]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:325][671]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:339][672]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:353][673]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:367][674]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:381][675]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:394][676]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:408][677]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:422][678]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:436][679]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:450][680]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:464][681]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:476][682]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:490][683]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:504][684]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:518][685]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:533][686]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:548][687]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:562][688]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:577][689]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:592][690]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:607][691]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:620][692]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:636][693]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:649][694]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:664][695]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:678][696]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:691][697]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:704][698]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:717][699]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:733][700]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:746][701]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:764][702]LogBlueprintUserMessages: [SWO_GameMode_C_0] Player Loses!
+[2021.05.25-01.35.41:918][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-01.35.41:918][702]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_World
+[2021.05.25-01.35.41:919][702]LogWorld: UWorld::CleanupWorld for World, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-01.35.41:919][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.35.41:928][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.25-01.35.41:951][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.35.42:018][702]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.25-01.35.42:018][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-01.35.42:020][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-01.35.42:058][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-01.35.42:063][702]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2021.05.25-01.35.42:121][703]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2021.05.25-01.35.55:823][705]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.25-01.35.55:962][705]LogUObjectHash: Compacting FUObjectHashTables data took   8.04ms
+[2021.05.25-01.35.56:637][746]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameMode5F88EFA1401F58779E678AB76658E09E.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.25-01.35.56:663][746]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.25-01.35.56:663][746]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.25-01.36.46:523][653]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.25-01.36.46:573][653]LogFMOD: Creating runtime Studio System
+[2021.05.25-01.36.46:576][653]LogFMOD: Default sample rate = 48000
+[2021.05.25-01.36.46:576][653]LogFMOD: System sample rate = 48000
+[2021.05.25-01.36.46:576][653]LogFMOD: Matching system sample rate 48000
+[2021.05.25-01.36.46:619][653]LogFMOD: Loading Banks
+[2021.05.25-01.36.46:619][653]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/BGM.bank
+[2021.05.25-01.36.46:619][653]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/SFX.bank
+[2021.05.25-01.36.46:619][653]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/UI.bank
+[2021.05.25-01.36.46:662][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.25-01.36.46:662][653]PIE: New page: PIE session: World (May 24, 2021, 5:36:46 PM)
+[2021.05.25-01.36.46:662][653]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_World
+[2021.05.25-01.36.46:677][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014967s)
+[2021.05.25-01.36.46:679][653]LogAIModule: Creating AISystem for world World
+[2021.05.25-01.36.46:679][653]LogPlayLevel: PIE: World Init took: (0.002407s)
+[2021.05.25-01.36.46:679][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/World.World to /Game/Levels/UEDPIE_0_World.World (0.017586s)
+[2021.05.25-01.36.46:774][653]LogUObjectHash: Compacting FUObjectHashTables data took   8.86ms
+[2021.05.25-01.36.46:776][653]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2021.05.25-01.36.46:776][653]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-01.36.46:776][653]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-01.36.46:776][653]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-01.36.46:776][653]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-01.36.46:776][653]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-01.36.46:777][653]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-01.36.46:777][653]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-01.36.46:777][653]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-01.36.46:777][653]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-01.36.46:777][653]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-01.36.46:782][653]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-01.36.46:782][653]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-01.36.46:812][653]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.05.25-01.36.46:812][653]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-01.36.46:812][653]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-01.36.46:812][653]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-01.36.46:813][653]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-01.36.46:813][653]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-01.36.46:813][653]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-01.36.46:829][653]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-01.36.46:829][653]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-01.36.46:829][653]LogInit: FAudioDevice initialized.
+[2021.05.25-01.36.46:829][653]LogAudio: Display: Audio Device (ID: 38) registered with world 'World'.
+[2021.05.25-01.36.46:836][653]LogLoad: Game class is 'SWO_GameMode_C'
+[2021.05.25-01.36.46:839][653]LogWorld: Bringing World /Game/Levels/UEDPIE_0_World.World up for play (max tick rate 0) at 2021.05.24-21.36.46
+[2021.05.25-01.36.46:839][653]LogWorld: Bringing up level for play took: 0.002313
+[2021.05.25-01.36.46:840][653]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2021.05.25-01.36.46:841][653]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-01.36.46:842][653]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-01.36.46:842][653]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-01.36.46:842][653]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.25-01.36.46:843][653]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-01.36.46:843][653]PIE: Server logged in
+[2021.05.25-01.36.46:843][653]PIE: Play in editor total start time 0.305 seconds.
+[2021.05.25-01.36.48:494][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-01.36.48:494][760]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_World
+[2021.05.25-01.36.48:495][760]LogWorld: UWorld::CleanupWorld for World, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-01.36.48:495][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.36.48:505][760]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.25-01.36.48:529][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.36.48:597][760]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.25-01.36.48:597][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-01.36.48:599][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-01.36.48:633][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-01.36.48:638][760]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.05.25-01.36.48:698][761]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2021.05.25-01.36.52:272][954]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/World.World:PersistentLevel.World
+[2021.05.25-01.37.07:142][546]LogSlate: Window 'World' being destroyed
+[2021.05.25-01.37.07:175][546]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-01.37.07:175][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.38.53:794][782]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.25-01.38.53:816][783]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.05.25-01.38.53:816][783]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.05.25-01.38.53:980][787]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.25-01.38.53:987][787]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.05.25-01.38.53:987][787]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.05.25-01.39.13:488][132]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.25-01.39.13:500][132]LogBlueprint: Error: [AssetLog] C:\Users\ericc\OneDrive\Documents\GitHub\SnowWayOut\SnowWayOut\Content\ThirdPersonBP\Blueprints\SWO_GameMode.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To EnemyPlayer  to imply a specific type.
+[2021.05.25-01.39.13:501][132]LogBlueprint: Error: [AssetLog] C:\Users\ericc\OneDrive\Documents\GitHub\SnowWayOut\SnowWayOut\Content\ThirdPersonBP\Blueprints\SWO_GameMode.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2021.05.25-01.39.13:640][132]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2021.05.25-01.39.19:878][597]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.25-01.39.20:024][597]LogUObjectHash: Compacting FUObjectHashTables data took   9.11ms
+[2021.05.25-01.39.20:701][640]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameModeAE2CF262454C76DDEAF12C99DE63F021.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.25-01.39.20:726][640]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.25-01.39.20:727][640]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.25-01.39.27:421][ 90]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.25-01.39.27:567][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   7.78ms
+[2021.05.25-01.39.27:943][106]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameModeE36AE39842A6DA453C786B99C70E8B94.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.25-01.39.27:988][106]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.25-01.39.27:988][106]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.25-01.39.29:496][175]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.25-01.39.29:542][175]LogFMOD: Creating runtime Studio System
+[2021.05.25-01.39.29:548][175]LogFMOD: Default sample rate = 48000
+[2021.05.25-01.39.29:548][175]LogFMOD: System sample rate = 48000
+[2021.05.25-01.39.29:548][175]LogFMOD: Matching system sample rate 48000
+[2021.05.25-01.39.29:593][175]LogFMOD: Loading Banks
+[2021.05.25-01.39.29:593][175]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/BGM.bank
+[2021.05.25-01.39.29:593][175]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/SFX.bank
+[2021.05.25-01.39.29:593][175]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/UI.bank
+[2021.05.25-01.39.29:633][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.25-01.39.29:633][175]PIE: New page: PIE session: World (May 24, 2021, 5:39:29 PM)
+[2021.05.25-01.39.29:671][175]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_World
+[2021.05.25-01.39.29:685][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014701s)
+[2021.05.25-01.39.29:688][175]LogAIModule: Creating AISystem for world World
+[2021.05.25-01.39.29:689][175]LogPlayLevel: PIE: World Init took: (0.003670s)
+[2021.05.25-01.39.29:689][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/World.World to /Game/Levels/UEDPIE_0_World.World (0.018670s)
+[2021.05.25-01.39.29:805][175]LogUObjectHash: Compacting FUObjectHashTables data took   9.25ms
+[2021.05.25-01.39.29:807][175]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2021.05.25-01.39.29:807][175]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-01.39.29:807][175]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-01.39.29:808][175]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-01.39.29:808][175]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-01.39.29:808][175]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-01.39.29:808][175]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-01.39.29:808][175]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-01.39.29:808][175]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-01.39.29:809][175]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-01.39.29:809][175]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-01.39.29:813][175]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-01.39.29:813][175]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-01.39.29:850][175]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.05.25-01.39.29:851][175]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-01.39.29:851][175]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-01.39.29:851][175]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-01.39.29:851][175]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-01.39.29:851][175]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-01.39.29:851][175]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-01.39.29:873][175]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-01.39.29:873][175]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-01.39.29:873][175]LogInit: FAudioDevice initialized.
+[2021.05.25-01.39.29:873][175]LogAudio: Display: Audio Device (ID: 39) registered with world 'World'.
+[2021.05.25-01.39.29:887][175]LogLoad: Game class is 'SWO_GameMode_C'
+[2021.05.25-01.39.29:891][175]LogWorld: Bringing World /Game/Levels/UEDPIE_0_World.World up for play (max tick rate 0) at 2021.05.24-21.39.29
+[2021.05.25-01.39.29:891][175]LogWorld: Bringing up level for play took: 0.003386
+[2021.05.25-01.39.29:892][175]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2021.05.25-01.39.29:894][175]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-01.39.29:894][175]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-01.39.29:895][175]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-01.39.29:895][175]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.25-01.39.29:897][175]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-01.39.29:897][175]PIE: Server logged in
+[2021.05.25-01.39.29:898][175]PIE: Play in editor total start time 0.386 seconds.
+[2021.05.25-01.39.31:683][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-01.39.31:683][292]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_World
+[2021.05.25-01.39.31:684][292]LogWorld: UWorld::CleanupWorld for World, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-01.39.31:684][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.39.31:693][292]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.25-01.39.31:716][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.39.31:789][292]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.25-01.39.31:790][292]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-01.39.31:791][292]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-01.39.31:824][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-01.39.31:829][292]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2021.05.25-01.39.31:882][293]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2021.05.25-01.39.38:230][828]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.25-01.39.38:368][828]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2021.05.25-01.39.39:027][872]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameModeBF4700D948B088C4117DFEB280BE7A99.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.25-01.39.39:052][872]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.25-01.39.39:052][872]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.25-01.40.43:295][499]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/World.World:PersistentLevel.World
+[2021.05.25-01.41.14:782][842]LogSlate: Window 'World' being destroyed
+[2021.05.25-01.41.14:802][842]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-01.41.14:802][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.41.42:576][534]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.05.25-01.41.42:781][534]LogUObjectHash: Compacting FUObjectHashTables data took   6.98ms
+[2021.05.25-01.41.43:393][536]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/ThirdPersonCharacterC706D24B4E52F57EA5CD56895E0274AD.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.05.25-01.41.43:414][536]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.05.25-01.41.43:414][536]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.05.25-01.41.45:246][635]LogUObjectHash: Compacting FUObjectHashTables data took   7.66ms
+[2021.05.25-01.41.45:273][635]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/WorldF7CEE8A04B9810954BCF3DA0AB059DEC.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/Levels/World.umap'
+[2021.05.25-01.41.45:303][635]AssetCheck: New page: Asset Save: World
+[2021.05.25-01.41.45:303][635]LogContentValidation: Display: Validating World /Game/Levels/World.World
+[2021.05.25-01.41.46:639][711]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.05.25-01.42.01:573][311]LogUObjectHash: Compacting FUObjectHashTables data took   7.03ms
+[2021.05.25-01.42.01:603][311]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/World0183F28A415732394A2096A0407D3B33.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/Levels/World.umap'
+[2021.05.25-01.42.01:642][311]AssetCheck: New page: Asset Save: World
+[2021.05.25-01.42.01:642][311]LogContentValidation: Display: Validating World /Game/Levels/World.World
+[2021.05.25-01.42.14:469][176]LogSlate: Window 'Delete Variable' being destroyed
+[2021.05.25-01.42.21:340][757]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.25-01.42.21:487][757]LogUObjectHash: Compacting FUObjectHashTables data took   8.58ms
+[2021.05.25-01.42.55:803][229]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.25-01.42.55:945][229]LogUObjectHash: Compacting FUObjectHashTables data took   8.13ms
+[2021.05.25-01.42.57:342][332]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameModeB43EC61348C5DB231256BCAFE84BE6AC.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.25-01.42.57:370][332]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.25-01.42.57:370][332]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.25-01.43.01:333][645]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.25-01.43.01:477][645]LogUObjectHash: Compacting FUObjectHashTables data took   8.24ms
+[2021.05.25-01.43.02:402][715]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameMode3C317DED40286C034F862AAF0A8F3AC3.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.25-01.43.02:428][715]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.25-01.43.02:428][715]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.25-01.43.10:223][132]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.05.25-01.43.10:583][132]LogUObjectHash: Compacting FUObjectHashTables data took   9.05ms
+[2021.05.25-01.43.11:397][134]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/ThirdPersonCharacterB597866143FD35BAF24F478041DEC7A6.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.05.25-01.43.11:423][134]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.05.25-01.43.11:423][134]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.05.25-01.43.14:032][247]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2021.05.25-01.43.14:060][247]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/World0E09D849483414579DC3608245160C56.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/Levels/World.umap'
+[2021.05.25-01.43.14:093][247]AssetCheck: New page: Asset Save: World
+[2021.05.25-01.43.14:093][247]LogContentValidation: Display: Validating World /Game/Levels/World.World
+[2021.05.25-01.43.58:272][301]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.25-01.43.58:414][301]LogUObjectHash: Compacting FUObjectHashTables data took   8.43ms
+[2021.05.25-01.43.58:852][328]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameMode77141FDC42F7843C9B59218D34B20C22.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.25-01.43.58:877][328]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.25-01.43.58:877][328]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.25-01.44.02:347][612]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameModeF3E6DE534CBE559E40BF77B4DAE695EC.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.25-01.44.02:371][612]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.25-01.44.02:371][612]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
+[2021.05.25-01.44.19:903][966]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.25-01.44.20:042][966]LogUObjectHash: Compacting FUObjectHashTables data took   8.21ms
+[2021.05.25-01.44.20:546][999]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameMode4AC087D941304498465F839EEE94428C.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.25-01.44.20:572][999]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.25-01.44.20:572][999]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
