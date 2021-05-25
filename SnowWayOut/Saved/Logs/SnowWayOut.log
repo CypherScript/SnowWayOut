@@ -3136,3 +3136,402 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.25-00.48.04:057][727]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.05.25-00.48.04:091][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
 [2021.05.25-00.48.04:143][728]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.05.25-00.52.19:728][113]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.05.25-00.52.19:729][113]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/World' took 0.049
+[2021.05.25-00.53.05:455][913]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/PlayerHUD.PlayerHUD
+[2021.05.25-00.54.09:157][ 26]BlueprintLog: New page: Compile FirstPersonProjectile
+[2021.05.25-00.54.09:312][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2021.05.25-00.54.10:400][ 82]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/FirstPersonProjectile7D8184D54C223E6E6D3DD7A99F453D9F.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/Imported_FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2021.05.25-00.54.10:416][ 82]AssetCheck: New page: Asset Save: FirstPersonProjectile
+[2021.05.25-00.54.10:417][ 82]LogContentValidation: Display: Validating Blueprint /Game/Imported_FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2021.05.25-00.54.14:142][296]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2021.05.25-00.54.14:170][296]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/WorldD01DAC5D48C31764ADEC71B3EA36465D.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/Levels/World.umap'
+[2021.05.25-00.54.14:198][296]AssetCheck: New page: Asset Save: World
+[2021.05.25-00.54.14:198][296]LogContentValidation: Display: Validating World /Game/Levels/World.World
+[2021.05.25-00.54.22:188][687]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/EnemyPlayer/EnemyPlayer.EnemyPlayer
+[2021.05.25-00.54.26:469][903]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-00.54.26:469][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-00.56.07:608][ 78]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.05.25-00.56.07:784][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2021.05.25-00.56.08:669][115]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/ThirdPersonCharacterBF1CF83C4ED07DB51C5E88A1851EE57B.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.05.25-00.56.08:687][115]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.05.25-00.56.08:687][115]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.05.25-00.57.01:706][176]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.05.25-00.57.01:878][176]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2021.05.25-00.57.02:750][200]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/ThirdPersonCharacter4A93DE12459E6A14A44F06BB441863DC.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.05.25-00.57.02:772][200]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.05.25-00.57.02:772][200]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.05.25-00.57.11:282][703]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.05.25-00.57.11:452][703]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2021.05.25-00.57.12:749][752]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/ThirdPersonCharacter9D5B37054E4FD12B7F15839AD4C274F6.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.05.25-00.57.12:773][752]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.05.25-00.57.12:773][752]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.05.25-00.57.57:222][398]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2021.05.25-00.57.57:251][398]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/World44434AAE4C18D22BB82FA3A0F11AD77D.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/Levels/World.umap'
+[2021.05.25-00.57.57:280][398]AssetCheck: New page: Asset Save: World
+[2021.05.25-00.57.57:280][398]LogContentValidation: Display: Validating World /Game/Levels/World.World
+[2021.05.25-00.59.36:129][457]BlueprintLog: New page: Compile EnemyPlayer
+[2021.05.25-00.59.36:260][457]LogUObjectHash: Compacting FUObjectHashTables data took   6.53ms
+[2021.05.25-00.59.37:052][512]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/EnemyPlayerE8358F754B851569D7640498460B5BAD.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/EnemyPlayer/EnemyPlayer.uasset'
+[2021.05.25-00.59.37:068][512]AssetCheck: New page: Asset Save: EnemyPlayer
+[2021.05.25-00.59.37:068][512]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/EnemyPlayer/EnemyPlayer.EnemyPlayer
+[2021.05.25-00.59.41:202][876]BlueprintLog: New page: Compile EnemyPlayer
+[2021.05.25-00.59.41:328][876]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2021.05.25-00.59.42:036][925]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/EnemyPlayerE8DF15C74B0DCAAEFA31C4B18A8829BB.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/EnemyPlayer/EnemyPlayer.uasset'
+[2021.05.25-00.59.42:053][925]AssetCheck: New page: Asset Save: EnemyPlayer
+[2021.05.25-00.59.42:054][925]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/EnemyPlayer/EnemyPlayer.EnemyPlayer
+[2021.05.25-01.00.01:498][514]BlueprintLog: New page: Compile EnemyPlayer
+[2021.05.25-01.00.01:626][514]LogUObjectHash: Compacting FUObjectHashTables data took   6.87ms
+[2021.05.25-01.00.02:990][623]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/EnemyPlayerFAA068B1424CADF2FE834EA33F0327FD.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/EnemyPlayer/EnemyPlayer.uasset'
+[2021.05.25-01.00.03:012][623]AssetCheck: New page: Asset Save: EnemyPlayer
+[2021.05.25-01.00.03:012][623]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/EnemyPlayer/EnemyPlayer.EnemyPlayer
+[2021.05.25-01.00.05:352][784]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2021.05.25-01.00.05:379][784]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/World72EBB3964741D6F6E02B92B8C8C22B48.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/Levels/World.umap'
+[2021.05.25-01.00.05:413][784]AssetCheck: New page: Asset Save: World
+[2021.05.25-01.00.05:413][784]LogContentValidation: Display: Validating World /Game/Levels/World.World
+[2021.05.25-01.05.37:944][418]BlueprintLog: New page: Compile PlayerHUD
+[2021.05.25-01.05.38:111][418]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2021.05.25-01.05.38:664][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PlayerHUD" FILE="../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/UI/PlayerHUD.uasset" SILENT=true
+[2021.05.25-01.05.38:691][448]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/PlayerHUDB8D621804C31726B5AFAF185F8CEBB58.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/UI/PlayerHUD.uasset'
+[2021.05.25-01.05.38:715][448]AssetCheck: New page: Asset Save: PlayerHUD
+[2021.05.25-01.05.38:715][448]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/PlayerHUD.PlayerHUD
+[2021.05.25-01.06.37:577][ 17]BlueprintLog: New page: Compile PlayerHUD
+[2021.05.25-01.06.37:710][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2021.05.25-01.06.38:329][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PlayerHUD" FILE="../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/UI/PlayerHUD.uasset" SILENT=true
+[2021.05.25-01.06.38:354][ 52]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/PlayerHUDEB150FEE4CCE2C052BA1448944466984.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/UI/PlayerHUD.uasset'
+[2021.05.25-01.06.38:379][ 52]AssetCheck: New page: Asset Save: PlayerHUD
+[2021.05.25-01.06.38:379][ 52]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/PlayerHUD.PlayerHUD
+[2021.05.25-01.08.48:512][672]BlueprintLog: New page: Compile PlayerHUD
+[2021.05.25-01.08.48:673][672]LogUObjectHash: Compacting FUObjectHashTables data took   7.58ms
+[2021.05.25-01.08.49:121][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PlayerHUD" FILE="../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/UI/PlayerHUD.uasset" SILENT=true
+[2021.05.25-01.08.49:153][698]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/PlayerHUD506C9F45465C9E8969E0459FB9ED917E.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/UI/PlayerHUD.uasset'
+[2021.05.25-01.08.49:182][698]AssetCheck: New page: Asset Save: PlayerHUD
+[2021.05.25-01.08.49:182][698]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/PlayerHUD.PlayerHUD
+[2021.05.25-01.09.36:994][227]BlueprintLog: New page: Compile PlayerHUD
+[2021.05.25-01.09.37:131][227]LogUObjectHash: Compacting FUObjectHashTables data took   6.76ms
+[2021.05.25-01.09.37:558][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PlayerHUD" FILE="../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/UI/PlayerHUD.uasset" SILENT=true
+[2021.05.25-01.09.37:599][254]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/PlayerHUD7896146F4BA9CA0D3D1F87814C31369B.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/UI/PlayerHUD.uasset'
+[2021.05.25-01.09.37:628][254]AssetCheck: New page: Asset Save: PlayerHUD
+[2021.05.25-01.09.37:628][254]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/PlayerHUD.PlayerHUD
+[2021.05.25-01.09.38:504][291]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2021.05.25-01.09.38:531][291]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/WorldB027E88E448A7EB3CE040D8F2D837A33.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/Levels/World.umap'
+[2021.05.25-01.09.38:561][291]AssetCheck: New page: Asset Save: World
+[2021.05.25-01.09.38:562][291]LogContentValidation: Display: Validating World /Game/Levels/World.World
+[2021.05.25-01.09.47:730][ 59]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.25-01.09.47:784][ 59]LogFMOD: Creating runtime Studio System
+[2021.05.25-01.09.47:796][ 59]LogFMOD: Default sample rate = 48000
+[2021.05.25-01.09.47:796][ 59]LogFMOD: System sample rate = 48000
+[2021.05.25-01.09.47:796][ 59]LogFMOD: Matching system sample rate 48000
+[2021.05.25-01.09.47:837][ 59]LogFMOD: Loading Banks
+[2021.05.25-01.09.47:837][ 59]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/BGM.bank
+[2021.05.25-01.09.47:837][ 59]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/SFX.bank
+[2021.05.25-01.09.47:837][ 59]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/UI.bank
+[2021.05.25-01.09.47:873][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.25-01.09.47:873][ 59]PIE: New page: PIE session: World (May 24, 2021, 5:09:47 PM)
+[2021.05.25-01.09.47:873][ 59]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_World
+[2021.05.25-01.09.47:883][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010211s)
+[2021.05.25-01.09.47:885][ 59]LogAIModule: Creating AISystem for world World
+[2021.05.25-01.09.47:885][ 59]LogPlayLevel: PIE: World Init took: (0.002098s)
+[2021.05.25-01.09.47:885][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/World.World to /Game/Levels/UEDPIE_0_World.World (0.012472s)
+[2021.05.25-01.09.47:973][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2021.05.25-01.09.47:975][ 59]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2021.05.25-01.09.47:976][ 59]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-01.09.47:976][ 59]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-01.09.47:976][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-01.09.47:976][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-01.09.47:976][ 59]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-01.09.47:976][ 59]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-01.09.47:976][ 59]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-01.09.47:976][ 59]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-01.09.47:976][ 59]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-01.09.47:976][ 59]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-01.09.47:979][ 59]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-01.09.47:980][ 59]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-01.09.48:009][ 59]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.05.25-01.09.48:009][ 59]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-01.09.48:010][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-01.09.48:010][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-01.09.48:010][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-01.09.48:010][ 59]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-01.09.48:010][ 59]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-01.09.48:027][ 59]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-01.09.48:027][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-01.09.48:027][ 59]LogInit: FAudioDevice initialized.
+[2021.05.25-01.09.48:027][ 59]LogAudio: Display: Audio Device (ID: 27) registered with world 'World'.
+[2021.05.25-01.09.48:033][ 59]LogLoad: Game class is 'SWO_GameMode_C'
+[2021.05.25-01.09.48:036][ 59]LogWorld: Bringing World /Game/Levels/UEDPIE_0_World.World up for play (max tick rate 0) at 2021.05.24-21.09.48
+[2021.05.25-01.09.48:037][ 59]LogWorld: Bringing up level for play took: 0.002395
+[2021.05.25-01.09.48:037][ 59]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2021.05.25-01.09.48:039][ 59]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-01.09.48:039][ 59]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-01.09.48:039][ 59]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-01.09.48:039][ 59]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.25-01.09.48:040][ 59]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-01.09.48:040][ 59]PIE: Server logged in
+[2021.05.25-01.09.48:041][ 59]PIE: Play in editor total start time 0.297 seconds.
+[2021.05.25-01.09.49:719][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-01.09.49:719][173]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_World
+[2021.05.25-01.09.49:719][173]LogWorld: UWorld::CleanupWorld for World, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-01.09.49:719][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.09.49:732][173]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.25-01.09.49:754][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.09.49:813][173]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.25-01.09.49:813][173]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-01.09.49:814][173]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-01.09.49:858][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-01.09.49:862][173]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.05.25-01.09.49:918][174]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2021.05.25-01.10.20:653][213]BlueprintLog: New page: Compile FirstPersonProjectile
+[2021.05.25-01.10.20:785][213]LogUObjectHash: Compacting FUObjectHashTables data took   6.52ms
+[2021.05.25-01.10.21:383][244]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/FirstPersonProjectileEDF8F9694B8B84E759C348AAEF547B0E.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/Imported_FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2021.05.25-01.10.21:400][244]AssetCheck: New page: Asset Save: FirstPersonProjectile
+[2021.05.25-01.10.21:400][244]LogContentValidation: Display: Validating Blueprint /Game/Imported_FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2021.05.25-01.10.42:293][ 61]BlueprintLog: New page: Compile FirstPersonProjectile
+[2021.05.25-01.10.42:416][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   7.54ms
+[2021.05.25-01.10.43:273][123]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/FirstPersonProjectile817E3D4E4B7AB68E2CE216B5FC23596E.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/Imported_FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2021.05.25-01.10.43:290][123]AssetCheck: New page: Asset Save: FirstPersonProjectile
+[2021.05.25-01.10.43:290][123]LogContentValidation: Display: Validating Blueprint /Game/Imported_FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2021.05.25-01.12.28:749][967]BlueprintLog: New page: Compile FirstPersonProjectile
+[2021.05.25-01.12.28:878][967]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2021.05.25-01.12.29:660][ 17]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/FirstPersonProjectile752A5A2C4AED4EA17781C1B16C3F727B.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/Imported_FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2021.05.25-01.12.29:685][ 17]AssetCheck: New page: Asset Save: FirstPersonProjectile
+[2021.05.25-01.12.29:685][ 17]LogContentValidation: Display: Validating Blueprint /Game/Imported_FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2021.05.25-01.12.47:502][451]BlueprintLog: New page: Compile FirstPersonProjectile
+[2021.05.25-01.12.47:626][451]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
+[2021.05.25-01.12.48:379][503]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/FirstPersonProjectile2AC2251448A992103DCD079575177EA4.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/Imported_FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2021.05.25-01.12.48:400][503]AssetCheck: New page: Asset Save: FirstPersonProjectile
+[2021.05.25-01.12.48:400][503]LogContentValidation: Display: Validating Blueprint /Game/Imported_FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2021.05.25-01.12.57:697][333]BlueprintLog: New page: Compile FirstPersonProjectile
+[2021.05.25-01.12.57:816][333]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2021.05.25-01.12.58:259][356]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/FirstPersonProjectile882E806843BE44B0ABA80D92E452C353.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/Imported_FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2021.05.25-01.12.58:281][356]AssetCheck: New page: Asset Save: FirstPersonProjectile
+[2021.05.25-01.12.58:281][356]LogContentValidation: Display: Validating Blueprint /Game/Imported_FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2021.05.25-01.13.02:772][688]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2021.05.25-01.13.02:800][688]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/WorldDFAD70F547E396D6954193AFBA26E6C7.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/Levels/World.umap'
+[2021.05.25-01.13.02:831][688]AssetCheck: New page: Asset Save: World
+[2021.05.25-01.13.02:831][688]LogContentValidation: Display: Validating World /Game/Levels/World.World
+[2021.05.25-01.13.03:929][745]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.25-01.13.03:982][745]LogFMOD: Creating runtime Studio System
+[2021.05.25-01.13.03:993][745]LogFMOD: Default sample rate = 48000
+[2021.05.25-01.13.03:993][745]LogFMOD: System sample rate = 48000
+[2021.05.25-01.13.03:993][745]LogFMOD: Matching system sample rate 48000
+[2021.05.25-01.13.04:034][745]LogFMOD: Loading Banks
+[2021.05.25-01.13.04:034][745]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/BGM.bank
+[2021.05.25-01.13.04:034][745]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/SFX.bank
+[2021.05.25-01.13.04:035][745]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/UI.bank
+[2021.05.25-01.13.04:074][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.25-01.13.04:074][745]PIE: New page: PIE session: World (May 24, 2021, 5:13:04 PM)
+[2021.05.25-01.13.04:074][745]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_World
+[2021.05.25-01.13.04:083][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009494s)
+[2021.05.25-01.13.04:086][745]LogAIModule: Creating AISystem for world World
+[2021.05.25-01.13.04:086][745]LogPlayLevel: PIE: World Init took: (0.003035s)
+[2021.05.25-01.13.04:087][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/World.World to /Game/Levels/UEDPIE_0_World.World (0.012740s)
+[2021.05.25-01.13.04:166][745]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2021.05.25-01.13.04:167][745]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2021.05.25-01.13.04:167][745]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-01.13.04:167][745]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-01.13.04:167][745]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-01.13.04:167][745]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-01.13.04:167][745]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-01.13.04:167][745]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-01.13.04:167][745]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-01.13.04:167][745]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-01.13.04:168][745]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-01.13.04:168][745]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-01.13.04:171][745]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-01.13.04:171][745]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-01.13.04:200][745]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.05.25-01.13.04:201][745]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-01.13.04:201][745]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-01.13.04:201][745]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-01.13.04:201][745]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-01.13.04:201][745]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-01.13.04:201][745]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-01.13.04:221][745]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-01.13.04:221][745]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-01.13.04:221][745]LogInit: FAudioDevice initialized.
+[2021.05.25-01.13.04:221][745]LogAudio: Display: Audio Device (ID: 28) registered with world 'World'.
+[2021.05.25-01.13.04:231][745]LogLoad: Game class is 'SWO_GameMode_C'
+[2021.05.25-01.13.04:234][745]LogWorld: Bringing World /Game/Levels/UEDPIE_0_World.World up for play (max tick rate 0) at 2021.05.24-21.13.04
+[2021.05.25-01.13.04:235][745]LogWorld: Bringing up level for play took: 0.002391
+[2021.05.25-01.13.04:235][745]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2021.05.25-01.13.04:237][745]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-01.13.04:237][745]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-01.13.04:237][745]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-01.13.04:237][745]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.25-01.13.04:238][745]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-01.13.04:238][745]PIE: Server logged in
+[2021.05.25-01.13.04:239][745]PIE: Play in editor total start time 0.298 seconds.
+[2021.05.25-01.13.04:622][771]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2021.05.25-01.13.04:624][771]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-400.003 Y=430.001 Z=293.161] for [FirstPersonProjectile_C]
+[2021.05.25-01.13.28:118][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-01.13.28:118][595]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_World
+[2021.05.25-01.13.28:118][595]LogWorld: UWorld::CleanupWorld for World, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-01.13.28:120][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.13.28:137][595]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.25-01.13.28:162][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.13.28:218][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-01.13.28:219][595]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-01.13.28:220][595]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-01.13.28:253][595]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.05.25-01.13.28:309][596]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2021.05.25-01.14.59:698][554]BlueprintLog: New page: Compile FirstPersonProjectile
+[2021.05.25-01.14.59:762][554]LogBlueprint: Error: [AssetLog] C:\Users\ericc\OneDrive\Documents\GitHub\SnowWayOut\SnowWayOut\Content\Imported_FirstPersonBP\Blueprints\FirstPersonProjectile.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To EnemyPlayer  to imply a specific type.
+[2021.05.25-01.14.59:763][554]LogBlueprint: Error: [AssetLog] C:\Users\ericc\OneDrive\Documents\GitHub\SnowWayOut\SnowWayOut\Content\Imported_FirstPersonBP\Blueprints\FirstPersonProjectile.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2021.05.25-01.14.59:878][554]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2021.05.25-01.15.00:333][575]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/FirstPersonProjectile42E7168C4EAFF5682F060DA0C78067B8.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/Imported_FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2021.05.25-01.15.00:355][575]AssetCheck: New page: Asset Save: FirstPersonProjectile
+[2021.05.25-01.15.00:355][575]LogContentValidation: Display: Validating Blueprint /Game/Imported_FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2021.05.25-01.16.06:591][581]BlueprintLog: New page: Compile FirstPersonProjectile
+[2021.05.25-01.16.06:717][581]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2021.05.25-01.16.07:265][608]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/FirstPersonProjectile9A4D109E450576F1215EC8BF430D06B1.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/Imported_FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2021.05.25-01.16.07:287][608]AssetCheck: New page: Asset Save: FirstPersonProjectile
+[2021.05.25-01.16.07:287][608]LogContentValidation: Display: Validating Blueprint /Game/Imported_FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2021.05.25-01.16.09:311][739]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2021.05.25-01.16.09:339][739]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/WorldDDE69CFD4E9C5089DFA188BBB0F05E97.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/Levels/World.umap'
+[2021.05.25-01.16.09:368][739]AssetCheck: New page: Asset Save: World
+[2021.05.25-01.16.09:368][739]LogContentValidation: Display: Validating World /Game/Levels/World.World
+[2021.05.25-01.16.23:423][822]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.05.25-01.16.23:600][822]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2021.05.25-01.16.24:518][843]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/ThirdPersonCharacter7A80D6584337B39E73BBC4A8712218F1.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.05.25-01.16.24:538][843]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.05.25-01.16.24:538][843]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.05.25-01.16.29:165][160]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2021.05.25-01.16.29:193][160]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/World8BFD6E4D41AE752089729EAB050445D8.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/Levels/World.umap'
+[2021.05.25-01.16.29:223][160]AssetCheck: New page: Asset Save: World
+[2021.05.25-01.16.29:223][160]LogContentValidation: Display: Validating World /Game/Levels/World.World
+[2021.05.25-01.16.36:434][585]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.25-01.16.36:484][585]LogFMOD: Creating runtime Studio System
+[2021.05.25-01.16.36:496][585]LogFMOD: Default sample rate = 48000
+[2021.05.25-01.16.36:496][585]LogFMOD: System sample rate = 48000
+[2021.05.25-01.16.36:496][585]LogFMOD: Matching system sample rate 48000
+[2021.05.25-01.16.36:535][585]LogFMOD: Loading Banks
+[2021.05.25-01.16.36:535][585]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/BGM.bank
+[2021.05.25-01.16.36:535][585]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/SFX.bank
+[2021.05.25-01.16.36:535][585]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/UI.bank
+[2021.05.25-01.16.36:573][585]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.25-01.16.36:573][585]PIE: New page: PIE session: World (May 24, 2021, 5:16:36 PM)
+[2021.05.25-01.16.36:573][585]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_World
+[2021.05.25-01.16.36:584][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011254s)
+[2021.05.25-01.16.36:586][585]LogAIModule: Creating AISystem for world World
+[2021.05.25-01.16.36:586][585]LogPlayLevel: PIE: World Init took: (0.001485s)
+[2021.05.25-01.16.36:586][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/World.World to /Game/Levels/UEDPIE_0_World.World (0.012895s)
+[2021.05.25-01.16.36:673][585]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2021.05.25-01.16.36:676][585]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2021.05.25-01.16.36:676][585]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-01.16.36:676][585]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-01.16.36:676][585]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-01.16.36:676][585]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-01.16.36:676][585]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-01.16.36:676][585]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-01.16.36:676][585]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-01.16.36:676][585]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-01.16.36:677][585]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-01.16.36:677][585]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-01.16.36:680][585]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-01.16.36:680][585]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-01.16.36:712][585]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.05.25-01.16.36:712][585]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-01.16.36:712][585]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-01.16.36:713][585]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-01.16.36:713][585]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-01.16.36:713][585]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-01.16.36:713][585]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-01.16.36:732][585]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-01.16.36:732][585]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-01.16.36:732][585]LogInit: FAudioDevice initialized.
+[2021.05.25-01.16.36:732][585]LogAudio: Display: Audio Device (ID: 29) registered with world 'World'.
+[2021.05.25-01.16.36:739][585]LogLoad: Game class is 'SWO_GameMode_C'
+[2021.05.25-01.16.36:743][585]LogWorld: Bringing World /Game/Levels/UEDPIE_0_World.World up for play (max tick rate 0) at 2021.05.24-21.16.36
+[2021.05.25-01.16.36:743][585]LogWorld: Bringing up level for play took: 0.002579
+[2021.05.25-01.16.36:743][585]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2021.05.25-01.16.36:745][585]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-01.16.36:745][585]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-01.16.36:745][585]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-01.16.36:746][585]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.25-01.16.36:747][585]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-01.16.36:747][585]PIE: Server logged in
+[2021.05.25-01.16.36:748][585]PIE: Play in editor total start time 0.302 seconds.
+[2021.05.25-01.16.38:207][676]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2021.05.25-01.16.38:209][676]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-400.003 Y=430.001 Z=293.161] for [FirstPersonProjectile_C]
+[2021.05.25-01.16.50:906][649]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2021.05.25-01.16.52:509][772]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2021.05.25-01.17.27:384][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-01.17.27:384][470]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_World
+[2021.05.25-01.17.27:385][470]LogWorld: UWorld::CleanupWorld for World, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-01.17.27:385][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.17.27:450][470]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.25-01.17.27:475][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.17.27:539][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-01.17.27:539][470]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-01.17.27:541][470]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-01.17.27:574][470]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2021.05.25-01.17.27:643][471]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2021.05.25-01.18.11:569][689]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.25-01.18.11:612][689]LogFMOD: Creating runtime Studio System
+[2021.05.25-01.18.11:615][689]LogFMOD: Default sample rate = 48000
+[2021.05.25-01.18.11:615][689]LogFMOD: System sample rate = 48000
+[2021.05.25-01.18.11:615][689]LogFMOD: Matching system sample rate 48000
+[2021.05.25-01.18.11:652][689]LogFMOD: Loading Banks
+[2021.05.25-01.18.11:652][689]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/BGM.bank
+[2021.05.25-01.18.11:652][689]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/SFX.bank
+[2021.05.25-01.18.11:652][689]LogFMOD: Loading bank: ../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/UI.bank
+[2021.05.25-01.18.11:694][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.25-01.18.11:694][689]PIE: New page: PIE session: World (May 24, 2021, 5:18:11 PM)
+[2021.05.25-01.18.11:694][689]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_World
+[2021.05.25-01.18.11:706][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011794s)
+[2021.05.25-01.18.11:707][689]LogAIModule: Creating AISystem for world World
+[2021.05.25-01.18.11:707][689]LogPlayLevel: PIE: World Init took: (0.001605s)
+[2021.05.25-01.18.11:707][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/World.World to /Game/Levels/UEDPIE_0_World.World (0.013578s)
+[2021.05.25-01.18.11:783][689]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2021.05.25-01.18.11:787][689]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2021.05.25-01.18.11:787][689]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-01.18.11:787][689]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-01.18.11:787][689]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-01.18.11:787][689]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-01.18.11:787][689]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-01.18.11:787][689]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-01.18.11:787][689]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-01.18.11:787][689]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-01.18.11:788][689]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-01.18.11:788][689]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-01.18.11:791][689]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-01.18.11:791][689]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-01.18.11:823][689]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.05.25-01.18.11:824][689]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-01.18.11:824][689]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-01.18.11:824][689]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-01.18.11:824][689]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-01.18.11:824][689]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-01.18.11:824][689]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-01.18.11:845][689]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-01.18.11:845][689]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-01.18.11:845][689]LogInit: FAudioDevice initialized.
+[2021.05.25-01.18.11:845][689]LogAudio: Display: Audio Device (ID: 30) registered with world 'World'.
+[2021.05.25-01.18.11:851][689]LogLoad: Game class is 'SWO_GameMode_C'
+[2021.05.25-01.18.11:854][689]LogWorld: Bringing World /Game/Levels/UEDPIE_0_World.World up for play (max tick rate 0) at 2021.05.24-21.18.11
+[2021.05.25-01.18.11:854][689]LogWorld: Bringing up level for play took: 0.002612
+[2021.05.25-01.18.11:855][689]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2021.05.25-01.18.11:857][689]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-01.18.11:857][689]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-01.18.11:857][689]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-01.18.11:858][689]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.25-01.18.11:859][689]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-01.18.11:859][689]PIE: Server logged in
+[2021.05.25-01.18.11:860][689]PIE: Play in editor total start time 0.276 seconds.
+[2021.05.25-01.18.34:887][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-01.18.34:887][431]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_World
+[2021.05.25-01.18.34:887][431]LogWorld: UWorld::CleanupWorld for World, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-01.18.34:887][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.18.34:901][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.25-01.18.34:931][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-01.18.35:002][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-01.18.35:003][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-01.18.35:005][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-01.18.35:068][431]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2021.05.25-01.18.35:129][432]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2021.05.25-01.18.55:551][199]BlueprintLog: New page: Compile SWO_GameMode
+[2021.05.25-01.18.55:670][199]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
+[2021.05.25-01.18.56:601][280]LogSavePackage: Moving '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Saved/SWO_GameMode8C2DF46043B7203A87285F9085EC1B74.tmp' to '../../../../../../Users/ericc/OneDrive/Documents/GitHub/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Blueprints/SWO_GameMode.uasset'
+[2021.05.25-01.18.56:626][280]AssetCheck: New page: Asset Save: SWO_GameMode
+[2021.05.25-01.18.56:626][280]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SWO_GameMode.SWO_GameMode
