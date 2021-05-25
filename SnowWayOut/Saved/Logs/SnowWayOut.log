@@ -1404,3 +1404,283 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2021.05.25-03.30.17:829][489]LogSavePackage: Moving '../../../../../../Users/siren/Documents/Unreal Projects/SnowWayOut/SnowWayOut/Saved/World3B22A69E48FA6270F4CB1C98D424B365.tmp' to '../../../../../../Users/siren/Documents/Unreal Projects/SnowWayOut/SnowWayOut/Content/Levels/World.umap'
 [2021.05.25-03.30.17:850][489]AssetCheck: New page: Asset Save: World
 [2021.05.25-03.30.17:850][489]LogContentValidation: Display: Validating World /Game/Levels/World.World
+[2021.05.25-03.31.05:523][481]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Character/Animations/Dizzy_Idle__1__Anim.Dizzy_Idle__1__Anim
+[2021.05.25-03.31.05:526][481]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.25-03.31.05:802][481]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.05.25-03.31.15:202][ 31]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Character/Animations/Dwarf_Walk_PhysicsAsset.Dwarf_Walk_PhysicsAsset
+[2021.05.25-03.31.15:228][ 31]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0002 seconds. Added 8 classes and 3 folders.
+[2021.05.25-03.31.15:233][ 31]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.05.25-03.31.15:419][ 31]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.25-03.31.19:448][259]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-03.31.19:448][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-03.31.27:936][757]LogSlate: Window 'T-Pose__1__Anim' being destroyed
+[2021.05.25-03.31.27:943][757]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-03.31.27:943][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-03.31.27:994][757]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-03.31.27:994][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-03.31.33:773][ 96]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Character/Animations/Dwarf_Walk_Skeleton.Dwarf_Walk_Skeleton
+[2021.05.25-03.31.33:776][ 96]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.25-03.31.37:655][306]LogSlate: Window 'Dwarf_Walk_Skeleton' being destroyed
+[2021.05.25-03.31.37:662][306]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-03.31.37:662][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-03.31.39:071][386]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Character/Animations/Happy_Idle.Happy_Idle
+[2021.05.25-03.31.39:077][386]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.25-03.31.41:100][484]LogSlate: Window 'Happy_Idle' being destroyed
+[2021.05.25-03.31.41:128][484]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-03.31.41:128][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-03.31.43:467][618]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Character/Animations/T-Pose__1__Anim.T-Pose__1__Anim
+[2021.05.25-03.31.43:470][618]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.25-03.31.43:770][618]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.05.25-03.31.59:827][572]LogSlate: Window 'T-Pose__1__Anim' being destroyed
+[2021.05.25-03.31.59:833][572]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-03.31.59:833][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-03.31.59:884][572]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-03.31.59:884][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-03.32.34:611][649]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Character/Animations/Dizzy_Idle__1_.Dizzy_Idle__1_
+[2021.05.25-03.32.34:615][649]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.25-03.32.38:139][835]LogSlate: Window 'Dizzy_Idle__1_' being destroyed
+[2021.05.25-03.32.38:146][835]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-03.32.38:146][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-03.32.54:315][789]LogMaterial: Display: Material /Game/Character/M_Character.M_Character needed to have new flag set bUsedWithSkeletalMesh !
+[2021.05.25-03.32.54:316][789]LogMaterial: Display: Missing cached shader map for material M_Character, compiling. 
+[2021.05.25-03.32.54:364][790]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.05.25-03.32.54:364][790]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2021.05.25-03.32.54:364][790]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.05.25-03.32.54:364][790]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.05.25-03.32.54:364][790]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.05.25-03.32.54:364][790]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.05.25-03.33.02:370][266]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.25-03.33.02:420][266]LogFMOD: Creating runtime Studio System
+[2021.05.25-03.33.02:422][266]LogFMOD: Default sample rate = 48000
+[2021.05.25-03.33.02:422][266]LogFMOD: System sample rate = 48000
+[2021.05.25-03.33.02:422][266]LogFMOD: Matching system sample rate 48000
+[2021.05.25-03.33.02:447][266]LogFMOD: Loading Banks
+[2021.05.25-03.33.02:447][266]LogFMOD: Loading bank: ../../../../../../Users/siren/Documents/Unreal Projects/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/BGM.bank
+[2021.05.25-03.33.02:447][266]LogFMOD: Loading bank: ../../../../../../Users/siren/Documents/Unreal Projects/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/SFX.bank
+[2021.05.25-03.33.02:447][266]LogFMOD: Loading bank: ../../../../../../Users/siren/Documents/Unreal Projects/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/UI.bank
+[2021.05.25-03.33.02:489][266]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.25-03.33.02:489][266]PIE: New page: PIE session: World (May 24, 2021, 7:33:02 PM)
+[2021.05.25-03.33.02:538][266]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_World
+[2021.05.25-03.33.02:549][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011057s)
+[2021.05.25-03.33.02:550][266]LogAIModule: Creating AISystem for world World
+[2021.05.25-03.33.02:550][266]LogPlayLevel: PIE: World Init took: (0.001261s)
+[2021.05.25-03.33.02:550][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/World.World to /Game/Levels/UEDPIE_0_World.World (0.012462s)
+[2021.05.25-03.33.02:564][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.05.25-03.33.02:568][266]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.05.25-03.33.02:568][266]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-03.33.02:568][266]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-03.33.02:568][266]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-03.33.02:568][266]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-03.33.02:568][266]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-03.33.02:568][266]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-03.33.02:568][266]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-03.33.02:568][266]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-03.33.02:568][266]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-03.33.02:568][266]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-03.33.02:571][266]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-03.33.02:571][266]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-03.33.02:592][266]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2021.05.25-03.33.02:592][266]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-03.33.02:592][266]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-03.33.02:592][266]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-03.33.02:593][266]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-03.33.02:593][266]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-03.33.02:593][266]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-03.33.02:607][266]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-03.33.02:607][266]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-03.33.02:607][266]LogInit: FAudioDevice initialized.
+[2021.05.25-03.33.02:607][266]LogAudio: Display: Audio Device (ID: 3) registered with world 'World'.
+[2021.05.25-03.33.02:616][266]LogLoad: Game class is 'SWO_GameMode_C'
+[2021.05.25-03.33.02:618][266]LogWorld: Bringing World /Game/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2021.05.24-23.33.02
+[2021.05.25-03.33.02:619][266]LogWorld: Bringing up level for play took: 0.002184
+[2021.05.25-03.33.02:619][266]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.05.25-03.33.02:621][266]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-03.33.02:621][266]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-03.33.02:621][266]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-03.33.02:621][266]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.25-03.33.02:622][266]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-03.33.02:622][266]PIE: Server logged in
+[2021.05.25-03.33.02:623][266]PIE: Play in editor total start time 0.246 seconds.
+[2021.05.25-03.33.12:629][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-03.33.12:629][858]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_World
+[2021.05.25-03.33.12:629][858]LogWorld: UWorld::CleanupWorld for World, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-03.33.12:629][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-03.33.12:636][858]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.25-03.33.12:650][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-03.33.12:658][858]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.25-03.33.12:658][858]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-03.33.12:659][858]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-03.33.12:689][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-03.33.12:691][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.05.25-03.33.12:721][859]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.05.25-03.33.24:966][587]Cmd: DELETE
+[2021.05.25-03.33.24:969][587]Cmd: ACTOR DELETE
+[2021.05.25-03.33.24:974][587]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.05.25-03.33.24:979][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.05.25-03.33.24:980][587]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.05.25-03.33.36:012][246]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Character/Animations/T-Pose__1_.T-Pose__1_
+[2021.05.25-03.33.36:016][246]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.25-03.33.54:180][302]LogSavePackage: Moving '../../../../../../Users/siren/Documents/Unreal Projects/SnowWayOut/SnowWayOut/Saved/T-Pose__1_EC3340A34BE09B3563B58A9082ED5D76.tmp' to '../../../../../../Users/siren/Documents/Unreal Projects/SnowWayOut/SnowWayOut/Content/Character/Animations/T-Pose__1_.uasset'
+[2021.05.25-03.33.54:217][302]AssetCheck: New page: Asset Save: T-Pose__1_
+[2021.05.25-03.33.54:217][302]LogContentValidation: Display: Validating SkeletalMesh /Game/Character/Animations/T-Pose__1_.T-Pose__1_
+[2021.05.25-03.33.59:424][612]LogSlate: Window 'T-Pose__1_' being destroyed
+[2021.05.25-03.33.59:428][612]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-03.33.59:428][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-03.34.03:695][862]Cmd: TRANSACTION UNDO
+[2021.05.25-03.34.03:695][862]LogEditorTransaction: Undo Create Actors
+[2021.05.25-03.35.18:868][352]Cmd: DELETE
+[2021.05.25-03.35.18:868][352]Cmd: ACTOR DELETE
+[2021.05.25-03.35.18:870][352]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.05.25-03.35.18:875][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.05.25-03.35.18:879][352]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.05.25-03.36.37:592][907]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\siren\Downloads\Pointing.fbx)
+[2021.05.25-03.36.37:599][907]LogFbx: Loading FBX Scene from C:\Users\siren\Downloads\Pointing.fbx
+[2021.05.25-03.36.37:617][907]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.25-03.36.38:955][907]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.05.25-03.36.38:971][907]LogFbx: Warning: Not valid bind pose for Pose (BindPose) - Node head_high : The relative matrices do not match
+[2021.05.25-03.36.38:972][907]LogFbx: Warning: Not valid bind pose for Pose (BindPose) - Node body_high : The relative matrices do not match
+[2021.05.25-03.36.38:972][907]LogFbx: Warning: Not valid bind pose for Pose (BindPose) - Node footLF_high : The relative matrices do not match
+[2021.05.25-03.36.38:972][907]LogFbx: Warning: Not valid bind pose for Pose (BindPose) - Node footRT_high : The relative matrices do not match
+[2021.05.25-03.36.38:972][907]LogFbx: Warning: Not valid bind pose for Pose (BindPose) - Node armLF_high : The relative matrices do not match
+[2021.05.25-03.36.38:972][907]LogFbx: Warning: Not valid bind pose for Pose (BindPose) - Node armRT_high : The relative matrices do not match
+[2021.05.25-03.36.38:972][907]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2021.05.25-03.36.38:973][907]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - head_high
+[2021.05.25-03.36.38:973][907]LogFbx: Warning: Recreating bind pose succeeded.
+[2021.05.25-03.36.38:974][907]LogFbx: Triangulating skeletal mesh head_high
+[2021.05.25-03.36.38:984][907]LogFbx: Triangulating skeletal mesh body_high
+[2021.05.25-03.36.38:990][907]LogFbx: Triangulating skeletal mesh footLF_high
+[2021.05.25-03.36.38:992][907]LogFbx: Triangulating skeletal mesh footRT_high
+[2021.05.25-03.36.38:995][907]LogFbx: Triangulating skeletal mesh armLF_high
+[2021.05.25-03.36.38:997][907]LogFbx: Triangulating skeletal mesh armRT_high
+[2021.05.25-03.36.38:999][907]LogFbx: Warning: Bones digested - 25  Depth of hierarchy - 8
+[2021.05.25-03.36.39:012][907]LogSkeletalMesh: Section 0: Material=0, 956 triangles
+[2021.05.25-03.36.39:014][907]LogSkeletalMesh: Building Skeletal Mesh Pointing...
+[2021.05.25-03.36.39:025][907]LogSkeletalMesh: Section 0: Material=0, 956 triangles
+[2021.05.25-03.36.39:028][907]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Bully/Animations/Pointing.Pointing
+[2021.05.25-03.36.39:031][907]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-03.36.39:031][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-03.36.39:033][907]LogFbx: SortedLinks :(0) Hips
+[2021.05.25-03.36.39:033][907]LogFbx: SortedLinks :(1) Spine
+[2021.05.25-03.36.39:033][907]LogFbx: SortedLinks :(2) Spine1
+[2021.05.25-03.36.39:033][907]LogFbx: SortedLinks :(3) Spine2
+[2021.05.25-03.36.39:033][907]LogFbx: SortedLinks :(4) Neck
+[2021.05.25-03.36.39:033][907]LogFbx: SortedLinks :(5) Head
+[2021.05.25-03.36.39:033][907]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.05.25-03.36.39:034][907]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.05.25-03.36.39:034][907]LogFbx: SortedLinks :(8) LeftArm
+[2021.05.25-03.36.39:034][907]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.05.25-03.36.39:034][907]LogFbx: SortedLinks :(10) LeftHand
+[2021.05.25-03.36.39:034][907]LogFbx: SortedLinks :(11) RightShoulder
+[2021.05.25-03.36.39:034][907]LogFbx: SortedLinks :(12) RightArm
+[2021.05.25-03.36.39:034][907]LogFbx: SortedLinks :(13) RightForeArm
+[2021.05.25-03.36.39:034][907]LogFbx: SortedLinks :(14) RightHand
+[2021.05.25-03.36.39:034][907]LogFbx: SortedLinks :(15) LeftUpLeg
+[2021.05.25-03.36.39:034][907]LogFbx: SortedLinks :(16) LeftLeg
+[2021.05.25-03.36.39:034][907]LogFbx: SortedLinks :(17) LeftFoot
+[2021.05.25-03.36.39:034][907]LogFbx: SortedLinks :(18) LeftToeBase
+[2021.05.25-03.36.39:034][907]LogFbx: SortedLinks :(19) LeftToe_End
+[2021.05.25-03.36.39:034][907]LogFbx: SortedLinks :(20) RightUpLeg
+[2021.05.25-03.36.39:034][907]LogFbx: SortedLinks :(21) RightLeg
+[2021.05.25-03.36.39:034][907]LogFbx: SortedLinks :(22) RightFoot
+[2021.05.25-03.36.39:034][907]LogFbx: SortedLinks :(23) RightToeBase
+[2021.05.25-03.36.39:034][907]LogFbx: SortedLinks :(24) RightToe_End
+[2021.05.25-03.36.39:034][907]LogFbx: Parsing AnimStack mixamo.com
+[2021.05.25-03.36.39:252][907]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Bully/Animations/Pointing_Anim.Pointing_Anim
+[2021.05.25-03.36.39:259][907]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End  
+mixamorig:LeftToe_End  
+mixamorig:RightToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2021.05.25-03.36.40:534][978]LogSlate: Window 'Message Log' being destroyed
+[2021.05.25-03.36.40:541][978]LogSlate: Window 'Message Log' being destroyed
+[2021.05.25-03.37.01:065][205]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.05.25-03.37.07:084][566]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Happy_Idle_Anim)
+[2021.05.25-03.37.24:094][584]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Pointing_Anim)
+[2021.05.25-03.37.40:608][570]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.25-03.37.40:649][570]LogFMOD: Creating runtime Studio System
+[2021.05.25-03.37.40:651][570]LogFMOD: Default sample rate = 48000
+[2021.05.25-03.37.40:651][570]LogFMOD: System sample rate = 48000
+[2021.05.25-03.37.40:651][570]LogFMOD: Matching system sample rate 48000
+[2021.05.25-03.37.40:676][570]LogFMOD: Loading Banks
+[2021.05.25-03.37.40:676][570]LogFMOD: Loading bank: ../../../../../../Users/siren/Documents/Unreal Projects/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/BGM.bank
+[2021.05.25-03.37.40:676][570]LogFMOD: Loading bank: ../../../../../../Users/siren/Documents/Unreal Projects/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/SFX.bank
+[2021.05.25-03.37.40:676][570]LogFMOD: Loading bank: ../../../../../../Users/siren/Documents/Unreal Projects/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/UI.bank
+[2021.05.25-03.37.40:718][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.25-03.37.40:718][570]PIE: New page: PIE session: World (May 24, 2021, 7:37:40 PM)
+[2021.05.25-03.37.40:718][570]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_World
+[2021.05.25-03.37.40:729][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011345s)
+[2021.05.25-03.37.40:730][570]LogAIModule: Creating AISystem for world World
+[2021.05.25-03.37.40:730][570]LogPlayLevel: PIE: World Init took: (0.001232s)
+[2021.05.25-03.37.40:730][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/World.World to /Game/Levels/UEDPIE_0_World.World (0.012737s)
+[2021.05.25-03.37.40:740][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.05.25-03.37.40:744][570]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.05.25-03.37.40:744][570]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-03.37.40:744][570]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-03.37.40:744][570]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-03.37.40:744][570]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-03.37.40:744][570]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-03.37.40:744][570]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-03.37.40:744][570]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-03.37.40:744][570]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-03.37.40:745][570]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-03.37.40:745][570]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-03.37.40:748][570]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-03.37.40:748][570]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-03.37.40:772][570]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2021.05.25-03.37.40:773][570]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-03.37.40:773][570]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-03.37.40:773][570]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-03.37.40:773][570]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-03.37.40:773][570]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-03.37.40:773][570]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-03.37.40:787][570]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-03.37.40:787][570]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-03.37.40:787][570]LogInit: FAudioDevice initialized.
+[2021.05.25-03.37.40:787][570]LogAudio: Display: Audio Device (ID: 4) registered with world 'World'.
+[2021.05.25-03.37.40:795][570]LogLoad: Game class is 'SWO_GameMode_C'
+[2021.05.25-03.37.40:798][570]LogWorld: Bringing World /Game/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2021.05.24-23.37.40
+[2021.05.25-03.37.40:798][570]LogWorld: Bringing up level for play took: 0.002863
+[2021.05.25-03.37.40:798][570]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.05.25-03.37.40:800][570]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-03.37.40:800][570]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.25-03.37.40:800][570]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-03.37.40:801][570]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.25-03.37.40:802][570]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.25-03.37.40:802][570]PIE: Server logged in
+[2021.05.25-03.37.40:802][570]PIE: Play in editor total start time 0.189 seconds.
+[2021.05.25-03.37.46:519][912]LogCharacterMovement: EnemyPlayer_2 is stuck and failed to move! Velocity: X=-127.21 Y=-116.03 Z=0.00 Location: X=923.22 Y=583.32 Z=260.00 Normal: X=0.37 Y=0.20 Z=-0.91 PenetrationDepth:0.054 Actor:Pointing_Anim_15 Component:SkeletalMeshComponent0 BoneName:LeftShoulder (0 other events since notify)
+[2021.05.25-03.37.51:304][199]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fireball is active!
+[2021.05.25-03.37.59:561][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-03.37.59:561][687]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_World
+[2021.05.25-03.37.59:561][687]LogWorld: UWorld::CleanupWorld for World, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-03.37.59:562][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-03.37.59:567][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.25-03.37.59:581][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-03.37.59:585][687]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.25-03.37.59:585][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-03.37.59:586][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-03.37.59:615][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-03.37.59:617][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.05.25-03.37.59:639][688]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.05.25-03.38.02:771][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.05.25-03.38.02:796][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.25-03.38.02:829][875]LogSavePackage: Moving '../../../../../../Users/siren/Documents/Unreal Projects/SnowWayOut/SnowWayOut/Saved/World7324F7DD45D7AF90AA9D6193C30981E8.tmp' to '../../../../../../Users/siren/Documents/Unreal Projects/SnowWayOut/SnowWayOut/Content/Levels/World.umap'
+[2021.05.25-03.38.02:838][875]LogFileHelpers: Saving map 'World' took 0.048
+[2021.05.25-03.38.02:850][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/M_Character" FILE="../../../../../../Users/siren/Documents/Unreal Projects/SnowWayOut/SnowWayOut/Content/Character/M_Character.uasset" SILENT=true
+[2021.05.25-03.38.02:857][875]LogSavePackage: Moving '../../../../../../Users/siren/Documents/Unreal Projects/SnowWayOut/SnowWayOut/Saved/M_Character7FF3C79A4C0DF4B9F8429DA6543952C1.tmp' to '../../../../../../Users/siren/Documents/Unreal Projects/SnowWayOut/SnowWayOut/Content/Character/M_Character.uasset'
+[2021.05.25-03.38.02:866][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bully/Animations/Pointing" FILE="../../../../../../Users/siren/Documents/Unreal Projects/SnowWayOut/SnowWayOut/Content/Bully/Animations/Pointing.uasset" SILENT=true
+[2021.05.25-03.38.02:880][875]LogSavePackage: Moving '../../../../../../Users/siren/Documents/Unreal Projects/SnowWayOut/SnowWayOut/Saved/PointingDCBE754B4BAD3064D7740E90B9D92A69.tmp' to '../../../../../../Users/siren/Documents/Unreal Projects/SnowWayOut/SnowWayOut/Content/Bully/Animations/Pointing.uasset'
+[2021.05.25-03.38.02:898][875]LogSavePackage: Moving '../../../../../../Users/siren/Documents/Unreal Projects/SnowWayOut/SnowWayOut/Saved/Pointing_PhysicsAssetE8F86EE642E0713ACDE1259B92DBCC82.tmp' to '../../../../../../Users/siren/Documents/Unreal Projects/SnowWayOut/SnowWayOut/Content/Bully/Animations/Pointing_PhysicsAsset.uasset'
+[2021.05.25-03.38.02:914][875]LogSavePackage: Moving '../../../../../../Users/siren/Documents/Unreal Projects/SnowWayOut/SnowWayOut/Saved/Pointing_AnimC6937B5B4B1D0504A209278F8375E713.tmp' to '../../../../../../Users/siren/Documents/Unreal Projects/SnowWayOut/SnowWayOut/Content/Bully/Animations/Pointing_Anim.uasset'
+[2021.05.25-03.38.02:925][875]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.25-03.38.02:925][875]LogContentValidation: Display: Validating AnimSequence /Game/Bully/Animations/Pointing_Anim.Pointing_Anim
+[2021.05.25-03.38.02:925][875]LogContentValidation: Display: Validating PhysicsAsset /Game/Bully/Animations/Pointing_PhysicsAsset.Pointing_PhysicsAsset
+[2021.05.25-03.38.02:925][875]LogContentValidation: Display: Validating SkeletalMesh /Game/Bully/Animations/Pointing.Pointing
+[2021.05.25-03.38.02:925][875]LogContentValidation: Display: Validating World /Game/Levels/World.World
+[2021.05.25-03.38.02:925][875]LogContentValidation: Display: Validating Material /Game/Character/M_Character.M_Character
+[2021.05.25-03.38.05:643][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.05.25-03.38.05:677][ 37]LogSavePackage: Moving '../../../../../../Users/siren/Documents/Unreal Projects/SnowWayOut/SnowWayOut/Saved/World06B846DE4E5991FBE907A393FF8C475B.tmp' to '../../../../../../Users/siren/Documents/Unreal Projects/SnowWayOut/SnowWayOut/Content/Levels/World.umap'
+[2021.05.25-03.38.05:696][ 37]AssetCheck: New page: Asset Save: World
+[2021.05.25-03.38.05:696][ 37]LogContentValidation: Display: Validating World /Game/Levels/World.World
