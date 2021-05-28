@@ -1,0 +1,1151 @@
+﻿Log file open, 05/26/21 11:31:14
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: SnowWayOut
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.219873
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin FMODStudio
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: NVIDIA GeForce RTX 2080 Super
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Config/Windows/Engine.ini]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Config/Windows/Engine.ini]
+[2021.05.26-15.31.14:673][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Config/Windows/Engine.ini]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Config/Windows/Engine.ini]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.26-15.31.14:673][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.26-15.31.14:674][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.26-15.31.14:674][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.26-15.31.14:674][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.26-15.31.14:674][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Config/Windows/Engine.ini]
+[2021.05.26-15.31.14:674][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Config/Windows/Engine.ini]
+[2021.05.26-15.31.14:682][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Config/Windows/Scalability.ini]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Config/Windows/Scalability.ini]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Config/Windows/Scalability.ini]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Config/Windows/Scalability.ini]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.26-15.31.14:682][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Config/Windows/Scalability.ini]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Config/Windows/Scalability.ini]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Config/Windows/Scalability.ini]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Config/Windows/Scalability.ini]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.26-15.31.14:683][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.26-15.31.14:683][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.26-15.31.14:683][  0]LogHAL: Display: Platform has ~ 16 GB [16991240192 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.26-15.31.14:683][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.26-15.31.14:683][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Config/Windows/Scalability.ini]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Config/Windows/Scalability.ini]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Config/Windows/Scalability.ini]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Config/Windows/Scalability.ini]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.26-15.31.14:683][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Config/Windows/Scalability.ini]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Config/Windows/Scalability.ini]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Config/Windows/Scalability.ini]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Config/Windows/Scalability.ini]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.26-15.31.14:684][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Config/Windows/Engine.ini]
+[2021.05.26-15.31.14:684][  0]LogInit: Computer: MSI
+[2021.05.26-15.31.14:684][  0]LogInit: User: Sherm
+[2021.05.26-15.31.14:684][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.05.26-15.31.14:684][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.26-15.31.14:684][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2021.05.26-15.31.14:684][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.26-15.31.14:684][  0]LogMemory: Process Physical Memory: 137.85 MB used, 137.86 MB peak
+[2021.05.26-15.31.14:684][  0]LogMemory: Process Virtual Memory: 110.47 MB used, 110.47 MB peak
+[2021.05.26-15.31.14:684][  0]LogMemory: Physical Memory: 10872.71 MB used,  5331.40 MB free, 16204.11 MB total
+[2021.05.26-15.31.14:684][  0]LogMemory: Virtual Memory: 134211512.00 MB used,  6219.41 MB free, 134217728.00 MB total
+[2021.05.26-15.31.14:717][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.26-15.31.14:753][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.26-15.31.14:753][  0]LogInit: Using OS detected language (en-US).
+[2021.05.26-15.31.14:753][  0]LogInit: Using OS detected locale (en-US).
+[2021.05.26-15.31.14:755][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.05.26-15.31.14:900][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.26-15.31.14:912][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.26-15.31.14:939][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.26-15.31.14:939][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.26-15.31.15:126][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.26-15.31.15:126][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.26-15.31.15:126][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.26-15.31.15:228][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 Super' (Feature Level 11_0)
+[2021.05.26-15.31.15:228][  0]LogD3D11RHI:       8010/0/8102 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.05.26-15.31.15:290][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2021.05.26-15.31.15:290][  0]LogD3D11RHI:       128/0/8102 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.05.26-15.31.15:291][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.26-15.31.15:291][  0]LogD3D11RHI:       0/0/8102 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.26-15.31.15:291][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.26-15.31.15:298][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.26-15.31.15:298][  0]LogD3D11RHI:     GPU DeviceId: 0x1e93 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.26-15.31.15:298][  0]LogWindows: EnumDisplayDevices:
+[2021.05.26-15.31.15:298][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.05.26-15.31.15:298][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.05.26-15.31.15:298][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.05.26-15.31.15:298][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Super' (P:1 D:1)
+[2021.05.26-15.31.15:298][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2080 Super' (P:0 D:0)
+[2021.05.26-15.31.15:299][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2080 Super' (P:0 D:0)
+[2021.05.26-15.31.15:299][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2080 Super' (P:0 D:0)
+[2021.05.26-15.31.15:299][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.05.26-15.31.15:299][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Super
+[2021.05.26-15.31.15:299][  0]LogD3D11RHI:   Driver Version: 460.79 (internal:27.21.14.6079, unified:460.79)
+[2021.05.26-15.31.15:299][  0]LogD3D11RHI:      Driver Date: 12-3-2020
+[2021.05.26-15.31.15:299][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2021.05.26-15.31.15:383][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.26-15.31.15:383][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.26-15.31.15:383][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.26-15.31.15:412][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.05.26-15.31.15:413][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.26-15.31.15:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.26-15.31.15:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.26-15.31.15:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.26-15.31.15:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.26-15.31.15:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.26-15.31.15:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.26-15.31.15:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.26-15.31.15:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.26-15.31.15:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.26-15.31.15:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.26-15.31.15:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.26-15.31.15:713][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.26-15.31.15:713][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.26-15.31.15:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.26-15.31.15:729][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.26-15.31.15:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.26-15.31.15:744][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.26-15.31.15:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.26-15.31.15:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.26-15.31.15:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.26-15.31.15:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.26-15.31.15:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.26-15.31.15:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.26-15.31.15:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.26-15.31.15:806][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.26-15.31.15:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.26-15.31.15:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.26-15.31.15:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.26-15.31.15:832][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.26-15.31.15:839][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.26-15.31.15:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.26-15.31.15:855][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.26-15.31.15:855][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.26-15.31.15:862][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.26-15.31.15:915][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.26-15.31.15:915][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Intermediate/Shaders/WorkingDirectory/6044/).
+[2021.05.26-15.31.15:915][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Sherm/AppData/Local/Temp/UnrealShaderWorkingDir/38ABB2084E26051453544D88B1CEBA8B/'.
+[2021.05.26-15.31.15:915][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.26-15.31.15:915][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.26-15.31.16:594][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.26-15.31.16:632][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/Sherm/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.26-15.31.16:632][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Sherm/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.26-15.31.16:633][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.26-15.31.16:633][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.26-15.31.16:633][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.26-15.31.16:633][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.26-15.31.16:644][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.26-15.31.16:644][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.26-15.31.16:644][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.26-15.31.16:652][  0]LogDerivedDataCache: Speed tests for C:/Users/Sherm/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.05.26-15.31.16:652][  0]LogDerivedDataCache: Display: Performance to C:/Users/Sherm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1194.36MBs, RandomWriteSpeed=125.74MBs. Assigned SpeedClass 'Local'
+[2021.05.26-15.31.16:653][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Sherm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.26-15.31.16:653][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.26-15.31.16:653][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.26-15.31.16:694][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.26-15.31.16:695][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.26-15.31.16:714][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2021.05.26-15.31.16:918][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.26-15.31.16:918][  0]LogInit: Active device profile: [000002AE077EA200][000002AE05AF1040 49] Windows
+[2021.05.26-15.31.16:918][  0]LogInit: Profiles: [000002AE077EA200][000002AE05AF1040 49] Windows, [000002AE07785D00][000002AE05AF91C0 49] WindowsNoEditor, [000002AE077EB300][000002AE05AFD340 49] WindowsServer, [000002AE07785100][000002AE05B014C0 49] WindowsClient, [000002AE077E9E00][000002AE05AF5600 49] IOS, [000002AE07787000][000002AE05B05740 49] iPadAir, [000002AE077E8500][000002AE05B09880 49] iPadAir2, [000002AE0772E000][000002AE05B15B00 49] IPadPro, [000002AE0772E100][000002AE05B0DB40 49] iPadAir3, [000002AE07785600][000002AE05B19CC0 49] iPadAir4, [000002AE0772E400][000002AE05B1C180 49] iPadMini2, [000002AE07784D00][000002AE05B20300 49] iPadMini3, [000002AE0772D200][000002AE05B24480 49] iPadMini4, [000002AE07786700][000002AE05B28600 49] iPadMini5, [000002AE07751800][000002AE05B308C0 49] iPhone6, [000002AE07751900][000002AE05B2C900 49] iPodTouch6, [000002AE0772FD00][000002AE05B38BC0 49] iPhone7, [000002AE0772FE00][000002AE05B34C00 49] iPodTouch7, [000002AE07753100][000002AE05B3CD80 49] iPhone5S, [000002AE0772EE00][000002AE05B40F00 49] iPhone6Plus, [000002AE07751400][000002AE05B45080 49] iPhone6S, [000002AE0772C100][000002AE05B49200 49] iPhone6SPlus, [000002AE07750300][000002AE05B4D380 49] iPhone7Plus, [000002AE0772C400][000002AE05B51500 49] iPhoneSE, [000002AE07752400][000002AE05B11640 49] iPhone8, [000002AE0772D500][000002AE05B55780 49] iPhone8Plus, [000002AE07753E00][000002AE05B598C0 49] iPhoneX, [000002AE0772F600][000002AE05B5DA00 49] iPhoneXS, [000002AE07753400][000002AE05B65B80 49] iPhoneXSMax, [000002AE0772DD00][000002AE05B69D00 49] iPhoneXR, [000002AE07753900][000002AE05B6C1C0 49] iPhone11, [000002AE0772CA00][000002AE05B70340 49] iPhone11Pro, [000002AE07752500][000002AE05B744C0 49] iPhone11ProMax, [000002AE0772EA00][000002AE05B78640 49] iPhoneSE2, [000002AE07750500][000002AE05B7C7C0 49] iPhone12Mini, [000002AE0772F200][000002AE05B80940 49] iPhone12, [000002AE07751A00][000002AE05B84AC0 49] iPhone12Pro, [000002AE0772D800][000002AE05B88C40 49] iPhone12ProMax, [000002AE07752200][000002AE05B8CDC0 49] iPadPro105, [000002AE077EA400][000002AE05B90F40 49] iPadPro129, [000002AE07752A00][000002AE05B950C0 49] iPadPro97, [000002AE077E9600][000002AE05B99240 49] iPadPro2_129, [000002AE07752600][000002AE05B9D3C0 49] iPad5, [000002AE077E8800][000002AE05BA1540 49] iPad6, [000002AE07753C00][000002AE05BA56C0 49] iPad7, [000002AE077E8F00][000002AE05B61800 49] iPad8, [000002AE07751200][000002AE05BA9940 49] iPadPro11, [000002AE077E8C00][000002AE05BADA80 49] iPadPro2_11, [000002AE07752300][000002AE05BB5C00 49] iPadPro3_129, [000002AE077E9000][000002AE05BB80C0 49] iPadPro4_129, [000002AE07752E00][000002AE05BBC240 49] AppleTV, [000002AE077E9500][000002AE05BC03C0 49] AppleTV4K, [000002AE07752700][000002AE05BC4540 49] TVOS, [000002AE077E9200][000002AE05BC86C0 49] Mac, [000002AE07750200][000002AE05BCC840 49] MacClient, [000002AE077EAB00][000002AE05BD09C0 49] MacNoEditor, [000002AE07750E00][000002AE05BD4B40 49] MacServer, [000002AE077E9C00][000002AE05BD8CC0 49] Linux, [000002AE07751600][000002AE05BDCE40 49] LinuxNoEditor, [000002AE077EA800][000002AE05BE0FC0 49] LinuxAArch64NoEditor, [000002AE07753700][000002AE05BE5140 49] LinuxClient, [000002AE077EA500][000002AE05BE92C0 49] LinuxAArch64Client, [000002AE07752B00][000002AE05BED440 49] LinuxServer, [000002AE077EAF00][000002AE05BF15C0 49] LinuxAArch64Server, [000002AE07751F00][000002AE05BF5740 49] Android, [000002AE077EAD00][000002AE05BB1880 49] Android_Low, [000002AE07751C00][000002AE05BF99C0 49] Android_Mid, [000002AE077EB000][000002AE05BFDB00 49] Android_High, [000002AE07753D00][000002AE05C01C40 49] Android_Default, [000002AE077E9700][000002AE05C08100 49] Android_Adreno4xx, [000002AE07752D00][000002AE05C0C280 49] Android_Adreno5xx_Low, [000002AE077E9B00][000002AE05C10400 49] Android_Adreno5xx, [000002AE07750D00][000002AE05C14580 49] Android_Adreno6xx, [000002AE077E8600][000002AE05C18700 49] Android_Adreno6xx_Vulkan, [000002AE07752800][000002AE05C1C880 49] Android_Mali_T6xx, [000002AE077EAC00][000002AE05C24A00 49] Android_Mali_T7xx, [000002AE07750A00][000002AE05C28B80 49] Android_Mali_T8xx, [000002AE077E8100][000002AE05C2CD00 49] Android_Mali_G71, [000002AE07785700][000002AE06460E80 49] Android_Mali_G72, [000002AE0772E800][000002AE06465000 49] Android_Mali_G72_Vulkan, [000002AE07786F00][000002AE06469180 49] Android_Mali_G76, [000002AE0772D400][000002AE064D1300 49] Android_Mali_G76_Vulkan, [000002AE07787C00][000002AE064D5480 49] Android_Mali_G77, [000002AE0772CC00][000002AE06525600 49] Android_Mali_G77_Vulkan, [000002AE07784400][000002AE06537780 49] Android_Vulkan_SM5, [000002AE0772F700][000002AE05C058C0 49] Android_PowerVR_G6xxx, [000002AE07787300][000002AE0653BA00 49] Android_PowerVR_GT7xxx, [000002AE0772FA00][000002AE0653FB40 49] Android_PowerVR_GE8xxx, [000002AE07786200][000002AE06555C80 49] Android_PowerVR_GM9xxx, [000002AE0772D100][000002AE0655C140 49] Android_PowerVR_GM9xxx_Vulkan, [000002AE07787400][000002AE065602C0 49] Android_TegraK1, [000002AE0772F400][000002AE06564440 49] Android_Unknown_Vulkan, [000002AE07784E00][000002AE065685C0 49] Lumin, [000002AE0772EC00][000002AE0656C740 49] Lumin_Desktop, [000002AE07785F00][000002AE065708C0 49] HoloLens, 
+[2021.05.26-15.31.17:029][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.26-15.31.17:029][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.26-15.31.17:029][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.26-15.31.17:029][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.26-15.31.17:029][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.26-15.31.17:052][  0]LogNetVersion: SnowWayOut 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2427333199)
+[2021.05.26-15.31.17:447][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.26-15.31.17:529][  0]LogPackageLocalizationCache: Processed 25 localized package path(s) for 1 prioritized culture(s) in 0.081448 seconds
+[2021.05.26-15.31.17:533][  0]LogUObjectArray: 16727 objects as part of root set at end of initial load.
+[2021.05.26-15.31.17:534][  0]LogUObjectAllocator: 4183232 out of 0 bytes used by permanent object pool.
+[2021.05.26-15.31.17:534][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.26-15.31.17:647][  0]LogFMOD: FFMODStudioModule startup
+[2021.05.26-15.31.17:647][  0]LogFMOD: Lib path = '../../../Engine/Plugins/FMODStudio/Binaries'
+[2021.05.26-15.31.17:647][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../Engine/Plugins/FMODStudio/Binaries/Win64/fmodL.dll
+[2021.05.26-15.31.17:652][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../Engine/Plugins/FMODStudio/Binaries/Win64/fmodstudioL.dll
+[2021.05.26-15.31.17:655][  0]LogFMOD: Display: Loaded bank lookup
+[2021.05.26-15.31.17:655][  0]LogFMOD: Display: Loaded asset lookup
+[2021.05.26-15.31.17:765][  0]LogFMOD: Default sample rate = 48000
+[2021.05.26-15.31.17:766][  0]LogFMOD: System sample rate = 44100
+[2021.05.26-15.31.17:766][  0]LogFMOD: Matching system sample rate 44100
+[2021.05.26-15.31.17:809][  0]LogFMOD: Default sample rate = 48000
+[2021.05.26-15.31.17:809][  0]LogFMOD: System sample rate = 44100
+[2021.05.26-15.31.17:809][  0]LogFMOD: Matching system sample rate 44100
+[2021.05.26-15.31.17:870][  0]LogPython: Using Python 3.7.7
+[2021.05.26-15.31.18:608][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2021.05.26-15.31.18:619][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.26-15.31.18:625][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.26-15.31.18:802][  0]SourceControl: Source control is disabled
+[2021.05.26-15.31.18:803][  0]SourceControl: Source control is disabled
+[2021.05.26-15.31.18:805][  0]SourceControl: Source control is disabled
+[2021.05.26-15.31.18:807][  0]SourceControl: Source control is disabled
+[2021.05.26-15.31.18:815][  0]SourceControl: Source control is disabled
+[2021.05.26-15.31.18:820][  0]LogUProjectInfo: Found projects:
+[2021.05.26-15.31.19:001][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.26-15.31.19:026][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.26-15.31.19:026][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.26-15.31.19:168][  0]LogOcInput: OculusInput pre-init called
+[2021.05.26-15.31.19:179][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.05.26-15.31.19:179][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.05.26-15.31.19:185][  0]LogCollectionManager: Loaded 0 collections in 0.000568 seconds
+[2021.05.26-15.31.19:196][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Collections/' took 0.00s
+[2021.05.26-15.31.19:196][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/Developers/Sherm/Collections/' took 0.00s
+[2021.05.26-15.31.19:196][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/Collections/' took 0.00s
+[2021.05.26-15.31.19:446][  0]LogWindows: Failed to load '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_link.dll' (GetLastError=126)
+[2021.05.26-15.31.19:446][  0]LogWindows: File '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_link.dll' does not exist
+[2021.05.26-15.31.19:446][  0]LogWindows: Failed to load '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_portal_cli.dll' (GetLastError=126)
+[2021.05.26-15.31.19:446][  0]LogWindows: File '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_portal_cli.dll' does not exist
+[2021.05.26-15.31.21:536][  0]LogEngine: Initializing Engine...
+[2021.05.26-15.31.21:536][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.26-15.31.21:537][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.26-15.31.21:624][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.26-15.31.21:632][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.26-15.31.21:641][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.26-15.31.21:645][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.26-15.31.21:645][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.26-15.31.21:645][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.26-15.31.21:645][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.26-15.31.21:645][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.26-15.31.21:645][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.26-15.31.21:645][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.26-15.31.21:645][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.26-15.31.21:645][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.26-15.31.21:645][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.26-15.31.21:646][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.26-15.31.21:646][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.26-15.31.21:653][  0]LogAudioMixer: Warning: Did not find the channel type flags for audio device 'Speakers (Scarlett 2i4 USB)'. Reverting to a default channel ordering.
+[2021.05.26-15.31.21:653][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.26-15.31.21:653][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.26-15.31.21:653][  0]LogAudioMixer: Display: 2: BackLeft
+[2021.05.26-15.31.21:653][  0]LogAudioMixer: Display: 3: BackRight
+[2021.05.26-15.31.21:681][  0]LogAudioMixer: Display: Using Audio Device Speakers (Scarlett 2i4 USB)
+[2021.05.26-15.31.21:686][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.26-15.31.21:688][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.26-15.31.21:688][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.26-15.31.21:688][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.26-15.31.21:688][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.26-15.31.21:688][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=4, Samples=4096
+[2021.05.26-15.31.21:692][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.26-15.31.21:692][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.26-15.31.21:692][  0]LogInit: FAudioDevice initialized.
+[2021.05.26-15.31.21:692][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.26-15.31.21:692][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.26-15.31.21:729][  0]LogDerivedDataCache: Saved boot cache 0.04s 77MB C:/Users/Sherm/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.26-15.31.21:730][  0]LogInit: Texture streaming: Enabled
+[2021.05.26-15.31.21:741][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.05.26-15.31.21:745][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.26-15.31.21:745][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.26-15.31.21:749][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.26-15.31.21:788][  0]LogInit: Transaction tracking system initialized
+[2021.05.26-15.31.21:805][  0]BlueprintLog: New page: Editor Load
+[2021.05.26-15.31.21:872][  0]LocalizationService: Localization service is disabled
+[2021.05.26-15.31.21:892][  0]TimingProfiler: Initialize
+[2021.05.26-15.31.21:892][  0]TimingProfiler: OnSessionChanged
+[2021.05.26-15.31.21:892][  0]LoadingProfiler: Initialize
+[2021.05.26-15.31.21:892][  0]LoadingProfiler: OnSessionChanged
+[2021.05.26-15.31.21:892][  0]NetworkingProfiler: Initialize
+[2021.05.26-15.31.21:892][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.26-15.31.21:892][  0]MemoryProfiler: Initialize
+[2021.05.26-15.31.21:892][  0]MemoryProfiler: OnSessionChanged
+[2021.05.26-15.31.22:027][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.26-15.31.22:027][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.26-15.31.22:061][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/' took 0.01s
+[2021.05.26-15.31.22:061][  0]LogFMOD: FFMODStudioEditorModule startup
+[2021.05.26-15.31.22:092][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/BankLookup3D10500B454F4CDFA02069B5F6465BC7.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/PrivateIntegrationData/BankLookup.uasset'
+[2021.05.26-15.31.22:093][  0]LogFMOD: Loading strings bank: C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/Master.strings.bank
+[2021.05.26-15.31.22:095][  0]LogFMOD: 'Music 2' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Music_2' instead.
+[2021.05.26-15.31.22:095][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/BGM/Music_2
+[2021.05.26-15.31.22:097][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Music_2C20E531A458663AE27F18382AE0289B6.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Events/BGM/Music_2.uasset'
+[2021.05.26-15.31.22:098][  0]LogFMOD: 'Menu Navi' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Menu_Navi' instead.
+[2021.05.26-15.31.22:098][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/UI/Menu_Navi
+[2021.05.26-15.31.22:100][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Menu_Navi3D4003744540F9A80876F4A3B9E138D6.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Events/UI/Menu_Navi.uasset'
+[2021.05.26-15.31.22:101][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/SFX/Snowball/Snowball
+[2021.05.26-15.31.22:103][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Snowball5E4311EA4EAA61BA46B0A8B691F5F050.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Events/SFX/Snowball/Snowball.uasset'
+[2021.05.26-15.31.22:103][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/BGM/bgm_main_menu
+[2021.05.26-15.31.22:105][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/bgm_main_menuB8724ADE4B7B490F5ACE889B09112CF7.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Events/BGM/bgm_main_menu.uasset'
+[2021.05.26-15.31.22:106][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/SFX/FS/sfx_footsteps
+[2021.05.26-15.31.22:108][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/sfx_footstepsDEFD629D476AF803FED4E5B5D2059828.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Events/SFX/FS/sfx_footsteps.uasset'
+[2021.05.26-15.31.22:109][  0]LogFMOD: Constructing asset: /Game/FMOD/VCAs/SFX
+[2021.05.26-15.31.22:111][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/SFXFCEAF62540384F35CABEEC900ACB1F34.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/VCAs/SFX.uasset'
+[2021.05.26-15.31.22:111][  0]LogFMOD: Constructing asset: /Game/FMOD/VCAs/BGM
+[2021.05.26-15.31.22:113][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/BGM75C5A2F5425D2FC5DE5157BAD4A17E26.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/VCAs/BGM.uasset'
+[2021.05.26-15.31.22:114][  0]LogFMOD: 'Menu Select' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Menu_Select' instead.
+[2021.05.26-15.31.22:114][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/UI/Menu_Select
+[2021.05.26-15.31.22:116][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Menu_SelectAC7977154C231998D2DA23B1EFF56A72.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Events/UI/Menu_Select.uasset'
+[2021.05.26-15.31.22:117][  0]LogFMOD: 'Music 1' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Music_1' instead.
+[2021.05.26-15.31.22:117][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/BGM/Music_1
+[2021.05.26-15.31.22:119][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Music_1BF95358B4C93784C2460D898DFC028E3.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Events/BGM/Music_1.uasset'
+[2021.05.26-15.31.22:119][  0]LogFMOD: '/Game/FMOD/Events/SFX/Power Up/sfx_powerup' cannot be used as a UE4 asset path. Name may not contain the following characters:  . Using '/Game/FMOD/Events/SFX/Power_Up/sfx_powerup' instead.
+[2021.05.26-15.31.22:119][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/SFX/Power_Up/sfx_powerup
+[2021.05.26-15.31.22:121][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/sfx_powerupD379D45B4A27BFED9B908EA0A2C457F7.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Events/SFX/Power_Up/sfx_powerup.uasset'
+[2021.05.26-15.31.22:122][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/SFX
+[2021.05.26-15.31.22:124][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/SFX363A8E1B4AAABFCF5A84B780EE130BB5.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Buses/SFX.uasset'
+[2021.05.26-15.31.22:125][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/BGM/bgm_loss
+[2021.05.26-15.31.22:127][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/bgm_loss777C9D434DD348598268D49ADBB13921.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Events/BGM/bgm_loss.uasset'
+[2021.05.26-15.31.22:128][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/BGM/bgm_win
+[2021.05.26-15.31.22:131][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/bgm_winF8B038924E707B39BEB03EA839E0F1D5.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Events/BGM/bgm_win.uasset'
+[2021.05.26-15.31.22:132][  0]LogFMOD: Constructing asset: /Game/FMOD/VCAs/UI
+[2021.05.26-15.31.22:134][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/UI8C400D9C44CF99C592B35599559C1A3C.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/VCAs/UI.uasset'
+[2021.05.26-15.31.22:135][  0]LogFMOD: Constructing asset: /Game/FMOD/Banks/Master
+[2021.05.26-15.31.22:137][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/MasterDC917DBD44BAD8D9D87FBF9C3D8E0911.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Banks/Master.uasset'
+[2021.05.26-15.31.22:138][  0]LogFMOD: Constructing asset: /Game/FMOD/VCAs/Master
+[2021.05.26-15.31.22:140][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Master7EFD8F5B461FC99D27FBA081AA69CDCA.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/VCAs/Master.uasset'
+[2021.05.26-15.31.22:140][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/UI
+[2021.05.26-15.31.22:142][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/UIFACE6CB7484118380D605BADB7AA9B5F.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Buses/UI.uasset'
+[2021.05.26-15.31.22:143][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/Reverb
+[2021.05.26-15.31.22:145][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/ReverbDE3C3C3D4BEE907E668D3988FC5F33B0.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Buses/Reverb.uasset'
+[2021.05.26-15.31.22:146][  0]LogFMOD: Constructing asset: /Game/FMOD/Banks/UI
+[2021.05.26-15.31.22:148][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/UI142255914CB9E8FA2B0D20889653E028.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Banks/UI.uasset'
+[2021.05.26-15.31.22:148][  0]LogFMOD: Constructing asset: /Game/FMOD/Banks/SFX
+[2021.05.26-15.31.22:150][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/SFXE806725D42AD7FA823FCF58E56CFDED4.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Banks/SFX.uasset'
+[2021.05.26-15.31.22:151][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/SFX/Snowball/Sfx_snowball_hit
+[2021.05.26-15.31.22:153][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Sfx_snowball_hitC52B04D642059D1197CCDF9BEFEBBC6D.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Events/SFX/Snowball/Sfx_snowball_hit.uasset'
+[2021.05.26-15.31.22:153][  0]LogFMOD: 'Footsteps 1' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Footsteps_1' instead.
+[2021.05.26-15.31.22:153][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/SFX/FS/Footsteps_1
+[2021.05.26-15.31.22:155][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Footsteps_126535DC84BB6AC17B4F64CBF4AE51363.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Events/SFX/FS/Footsteps_1.uasset'
+[2021.05.26-15.31.22:156][  0]LogFMOD: 'Music shot' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Music_shot' instead.
+[2021.05.26-15.31.22:156][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/BGM/Music_shot
+[2021.05.26-15.31.22:158][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Music_shot133E5ECC42B9DF7AB875A38075471516.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Events/BGM/Music_shot.uasset'
+[2021.05.26-15.31.22:159][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/BGM/Music
+[2021.05.26-15.31.22:161][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Music8A74950846B8FD88C627378D9048862B.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Events/BGM/Music.uasset'
+[2021.05.26-15.31.22:162][  0]LogFMOD: Constructing asset: /Game/FMOD/Events/SFX/Snowball/Sfx_snowball_cover
+[2021.05.26-15.31.22:164][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/Sfx_snowball_cover3A1E27C648FC35C1106B49B891417657.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Events/SFX/Snowball/Sfx_snowball_cover.uasset'
+[2021.05.26-15.31.22:164][  0]LogFMOD: Constructing asset: /Game/FMOD/Buses/BGM
+[2021.05.26-15.31.22:167][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/BGM10A41C2B44B8F8DE3DEA96A0CA7C64CD.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Buses/BGM.uasset'
+[2021.05.26-15.31.22:167][  0]LogFMOD: Constructing asset: /Game/FMOD/Banks/BGM
+[2021.05.26-15.31.22:169][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/BGMF8DFF2274649DF9209F20A87C88830E3.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Banks/BGM.uasset'
+[2021.05.26-15.31.22:172][  0]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/AssetLookupC992021243C2AC157F2523B4559EEB40.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset'
+[2021.05.26-15.31.22:173][  0]LogFMOD: Display: Loaded bank lookup
+[2021.05.26-15.31.22:173][  0]LogFMOD: Display: Loaded asset lookup
+[2021.05.26-15.31.22:287][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.26-15.31.22:291][  0]SourceControl: Source control is disabled
+[2021.05.26-15.31.22:291][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.528
+[2021.05.26-15.31.22:291][  0]Cmd: MAP LOAD FILE="C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.26-15.31.22:291][  0]LightingResults: New page: Lighting Build
+[2021.05.26-15.31.22:292][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-15.31.22:292][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-15.31.22:292][  0]MapCheck: New page: Map Check
+[2021.05.26-15.31.22:292][  0]LightingResults: New page: Lighting Build
+[2021.05.26-15.31.22:298][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.05.26-15.31.22:693][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.05.26-15.31.22:694][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.26-15.31.22:700][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.26-15.31.22:709][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.05.26-15.31.22:710][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.26-15.31.22:710][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.148ms to complete.
+[2021.05.26-15.31.22:710][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.419
+[2021.05.26-15.31.22:710][  0]LogAssetRegistry: Flushing asset discovery search because of synchronous request, this can take several seconds...
+[2021.05.26-15.31.22:727][  0]LogAssetRegistry: Asset discovery search completed in 0.0179 seconds
+[2021.05.26-15.31.22:729][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.05.26-15.31.22:932][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.169
+[2021.05.26-15.31.23:060][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-15.31.23:069][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-15.31.23:076][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-15.31.23:081][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-15.31.23:093][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0077 seconds. Added 3647 classes and 878 folders.
+[2021.05.26-15.31.23:095][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.26-15.31.23:097][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.26-15.31.23:097][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.26-15.31.23:097][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.26-15.31.23:097][  0]LogPakFile: OnPakFileMounted2Time == 0.000005
+[2021.05.26-15.31.23:098][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.26-15.31.23:098][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.26-15.31.23:098][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.26-15.31.23:098][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.05.26-15.31.23:098][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.26-15.31.23:098][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.26-15.31.23:098][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.26-15.31.23:098][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.05.26-15.31.23:099][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.26-15.31.23:099][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.26-15.31.23:099][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.26-15.31.23:099][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.05.26-15.31.23:099][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.26-15.31.23:099][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.26-15.31.23:099][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.26-15.31.23:099][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.05.26-15.31.23:100][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.26-15.31.23:100][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.26-15.31.23:100][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.26-15.31.23:100][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.05.26-15.31.23:101][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.26-15.31.23:101][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.26-15.31.23:101][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.26-15.31.23:101][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.05.26-15.31.23:101][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.26-15.31.23:101][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.26-15.31.23:101][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.26-15.31.23:101][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.05.26-15.31.23:102][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.26-15.31.23:102][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.26-15.31.23:102][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.26-15.31.23:102][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.05.26-15.31.23:102][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.26-15.31.23:102][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.26-15.31.23:102][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.26-15.31.23:102][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.05.26-15.31.23:103][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.26-15.31.23:103][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.26-15.31.23:103][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.26-15.31.23:103][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.05.26-15.31.23:103][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.26-15.31.23:103][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.26-15.31.23:103][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.26-15.31.23:103][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.05.26-15.31.23:104][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.26-15.31.23:104][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.26-15.31.23:104][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.26-15.31.23:104][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.05.26-15.31.23:105][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.26-15.31.23:105][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.26-15.31.23:105][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.26-15.31.23:105][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.05.26-15.31.23:105][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.26-15.31.23:105][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.26-15.31.23:105][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.26-15.31.23:105][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.05.26-15.31.23:106][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.26-15.31.23:106][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.26-15.31.23:106][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.26-15.31.23:106][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.05.26-15.31.23:106][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.26-15.31.23:106][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.26-15.31.23:106][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.26-15.31.23:106][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.05.26-15.31.23:107][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.26-15.31.23:107][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.26-15.31.23:107][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.26-15.31.23:107][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.05.26-15.31.23:108][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.26-15.31.23:108][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.26-15.31.23:108][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.26-15.31.23:108][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2021.05.26-15.31.23:108][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.26-15.31.23:108][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.26-15.31.23:108][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.26-15.31.23:108][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.05.26-15.31.23:109][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.26-15.31.23:109][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.26-15.31.23:109][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.26-15.31.23:109][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.05.26-15.31.23:110][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.26-15.31.23:110][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.26-15.31.23:110][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.26-15.31.23:110][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.05.26-15.31.23:110][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.26-15.31.23:110][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.26-15.31.23:110][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.26-15.31.23:110][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2021.05.26-15.31.23:111][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.26-15.31.23:111][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.26-15.31.23:111][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.26-15.31.23:111][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2021.05.26-15.31.23:112][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.26-15.31.23:112][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.26-15.31.23:112][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.26-15.31.23:112][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.05.26-15.31.23:112][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.26-15.31.23:112][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.26-15.31.23:112][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.26-15.31.23:112][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2021.05.26-15.31.23:164][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.26-15.31.23:165][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.05.26-15.31.23:244][  0]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.26-15.31.23:246][  0]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.26-15.31.23:249][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.26-15.31.23:341][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.05.26-15.31.23:390][  0]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.26-15.31.23:549][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.26-15.31.23:549][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.05.26-15.31.23:549][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.05.26-15.31.23:549][  0]LogLoad: (Engine Initialization) Total time: 9.79 seconds
+[2021.05.26-15.31.23:549][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.26-15.31.23:549][  0]LogInit: First time updating LLM stats...
+[2021.05.26-15.31.23:575][  0]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.26-15.31.23:575][  0]LogContentValidation: Display: Validating FMODBankLookup /Game/FMOD/PrivateIntegrationData/BankLookup.BankLookup
+[2021.05.26-15.31.23:575][  0]LogContentValidation: Display: Validating DataTable /Game/FMOD/PrivateIntegrationData/AssetLookup.AssetLookup
+[2021.05.26-15.31.23:575][  0]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/BGM/Music_2.Music_2
+[2021.05.26-15.31.23:575][  0]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/UI/Menu_Navi.Menu_Navi
+[2021.05.26-15.31.23:575][  0]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/SFX/Snowball/Snowball.Snowball
+[2021.05.26-15.31.23:575][  0]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/BGM/bgm_main_menu.bgm_main_menu
+[2021.05.26-15.31.23:575][  0]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/SFX/FS/sfx_footsteps.sfx_footsteps
+[2021.05.26-15.31.23:575][  0]LogContentValidation: Display: Validating FMODVCA /Game/FMOD/VCAs/SFX.SFX
+[2021.05.26-15.31.23:575][  0]LogContentValidation: Display: Validating FMODVCA /Game/FMOD/VCAs/BGM.BGM
+[2021.05.26-15.31.23:575][  0]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/UI/Menu_Select.Menu_Select
+[2021.05.26-15.31.23:575][  0]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/BGM/Music_1.Music_1
+[2021.05.26-15.31.23:575][  0]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/SFX/Power_Up/sfx_powerup.sfx_powerup
+[2021.05.26-15.31.23:575][  0]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/SFX.SFX
+[2021.05.26-15.31.23:575][  0]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/BGM/bgm_loss.bgm_loss
+[2021.05.26-15.31.23:575][  0]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/BGM/bgm_win.bgm_win
+[2021.05.26-15.31.23:575][  0]LogContentValidation: Display: Validating FMODVCA /Game/FMOD/VCAs/UI.UI
+[2021.05.26-15.31.23:575][  0]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/Master.Master
+[2021.05.26-15.31.23:575][  0]LogContentValidation: Display: Validating FMODVCA /Game/FMOD/VCAs/Master.Master
+[2021.05.26-15.31.23:575][  0]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/UI.UI
+[2021.05.26-15.31.23:575][  0]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/Reverb.Reverb
+[2021.05.26-15.31.23:576][  0]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/UI.UI
+[2021.05.26-15.31.23:576][  0]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/SFX.SFX
+[2021.05.26-15.31.23:576][  0]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/SFX/Snowball/Sfx_snowball_hit.Sfx_snowball_hit
+[2021.05.26-15.31.23:576][  0]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/SFX/FS/Footsteps_1.Footsteps_1
+[2021.05.26-15.31.23:576][  0]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/BGM/Music_shot.Music_shot
+[2021.05.26-15.31.23:576][  0]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/BGM/Music.Music
+[2021.05.26-15.31.23:576][  0]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/SFX/Snowball/Sfx_snowball_cover.Sfx_snowball_cover
+[2021.05.26-15.31.23:576][  0]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/BGM.BGM
+[2021.05.26-15.31.23:576][  0]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/BGM.BGM
+[2021.05.26-15.31.23:622][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.26-15.31.23:639][  1]LogFMOD: File has changed: C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/Master.strings.bank
+[2021.05.26-15.31.23:651][  1]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.26-15.31.23:671][  1]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/BankLookup7996504F4ECB1900966A8AAC3EC19CCA.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/PrivateIntegrationData/BankLookup.uasset'
+[2021.05.26-15.31.23:677][  1]LogFMOD: Loading strings bank: C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/Master.strings.bank
+[2021.05.26-15.31.23:704][  1]LogSavePackage: Moving 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Saved/AssetLookup04A8CEEC43E312E5D5DEE284BEB0BB61.tmp' to 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset'
+[2021.05.26-15.31.23:823][  1]LogFMOD: Display: Loaded bank lookup
+[2021.05.26-15.31.23:823][  1]LogFMOD: Display: Loaded asset lookup
+[2021.05.26-15.31.23:825][  1]LogFMOD: Default sample rate = 48000
+[2021.05.26-15.31.23:825][  1]LogFMOD: System sample rate = 44100
+[2021.05.26-15.31.23:825][  1]LogFMOD: Matching system sample rate 44100
+[2021.05.26-15.31.23:854][  1]LogFMOD: Loading bank: C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/BGM.bank
+[2021.05.26-15.31.23:854][  1]LogFMOD: Loading bank: C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/SFX.bank
+[2021.05.26-15.31.23:854][  1]LogFMOD: Loading bank: C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/UI.bank
+[2021.05.26-15.31.24:011][  1]LogFMOD: Default sample rate = 48000
+[2021.05.26-15.31.24:011][  1]LogFMOD: System sample rate = 44100
+[2021.05.26-15.31.24:011][  1]LogFMOD: Matching system sample rate 44100
+[2021.05.26-15.31.24:038][  1]LogFMOD: Loading bank: C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/BGM.bank
+[2021.05.26-15.31.24:038][  1]LogFMOD: Loading bank: C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/SFX.bank
+[2021.05.26-15.31.24:038][  1]LogFMOD: Loading bank: C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/UI.bank
+[2021.05.26-15.31.24:080][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2021.05.26-15.31.24:083][  1]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.26-15.31.24:083][  1]LogContentValidation: Display: Validating FMODBankLookup /Game/FMOD/PrivateIntegrationData/BankLookup.BankLookup
+[2021.05.26-15.31.24:083][  1]LogContentValidation: Display: Validating DataTable /Game/FMOD/PrivateIntegrationData/AssetLookup.AssetLookup
+[2021.05.26-15.31.24:084][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/' took 0.51s
+[2021.05.26-15.31.27:655][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.05.26-15.31.27:694][206]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2021.05.26-15.31.27:695][206]Cmd: MAP LOAD FILE="C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.26-15.31.27:695][206]LightingResults: New page: Lighting Build
+[2021.05.26-15.31.27:695][206]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.05.26-15.31.27:696][206]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-15.31.27:696][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-15.31.27:696][206]MapCheck: New page: Map Check
+[2021.05.26-15.31.27:696][206]LightingResults: New page: Lighting Build
+[2021.05.26-15.31.27:701][206]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.26-15.31.27:703][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.05.26-15.31.27:703][206]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.05.26-15.31.27:750][206]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.26-15.31.27:750][206]LogAIModule: Creating AISystem for world MainMenu
+[2021.05.26-15.31.27:756][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.05.26-15.31.27:766][206]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.26-15.31.27:766][206]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2021.05.26-15.31.27:766][206]LogFileHelpers: Loading map 'MainMenu' took 0.071
+[2021.05.26-15.31.28:785][266]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.26-15.31.28:817][266]LogFMOD: Creating runtime Studio System
+[2021.05.26-15.31.28:819][266]LogFMOD: Default sample rate = 48000
+[2021.05.26-15.31.28:819][266]LogFMOD: System sample rate = 44100
+[2021.05.26-15.31.28:819][266]LogFMOD: Matching system sample rate 44100
+[2021.05.26-15.31.28:849][266]LogFMOD: Loading Banks
+[2021.05.26-15.31.28:849][266]LogFMOD: Loading bank: C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/BGM.bank
+[2021.05.26-15.31.28:849][266]LogFMOD: Loading bank: C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/SFX.bank
+[2021.05.26-15.31.28:849][266]LogFMOD: Loading bank: C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/UI.bank
+[2021.05.26-15.31.28:887][266]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.26-15.31.28:887][266]PIE: New page: PIE session: MainMenu (May 26, 2021, 7:31:28 AM)
+[2021.05.26-15.31.28:888][266]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.05.26-15.31.28:889][266]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.05.26-15.31.28:889][266]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2021.05.26-15.31.28:890][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000908s)
+[2021.05.26-15.31.28:890][266]LogAIModule: Creating AISystem for world MainMenu
+[2021.05.26-15.31.28:890][266]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2021.05.26-15.31.28:890][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.001720s)
+[2021.05.26-15.31.28:895][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.05.26-15.31.28:895][266]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.05.26-15.31.28:895][266]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.26-15.31.28:895][266]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.26-15.31.28:895][266]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.26-15.31.28:895][266]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.26-15.31.28:895][266]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.26-15.31.28:895][266]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.26-15.31.28:895][266]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.26-15.31.28:895][266]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.26-15.31.28:896][266]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.26-15.31.28:896][266]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.26-15.31.28:899][266]LogAudioMixer: Warning: Did not find the channel type flags for audio device 'Speakers (Scarlett 2i4 USB)'. Reverting to a default channel ordering.
+[2021.05.26-15.31.28:899][266]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.26-15.31.28:899][266]LogAudioMixer: Display: 1: FrontRight
+[2021.05.26-15.31.28:899][266]LogAudioMixer: Display: 2: BackLeft
+[2021.05.26-15.31.28:899][266]LogAudioMixer: Display: 3: BackRight
+[2021.05.26-15.31.28:927][266]LogAudioMixer: Display: Using Audio Device Speakers (Scarlett 2i4 USB)
+[2021.05.26-15.31.28:927][266]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.26-15.31.28:927][266]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.26-15.31.28:927][266]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.26-15.31.28:927][266]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.26-15.31.28:927][266]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.26-15.31.28:927][266]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=4, Samples=4096
+[2021.05.26-15.31.28:941][266]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.26-15.31.28:941][266]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.26-15.31.28:941][266]LogInit: FAudioDevice initialized.
+[2021.05.26-15.31.28:941][266]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2021.05.26-15.31.28:951][266]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.26-15.31.28:952][266]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.05.26-11.31.28
+[2021.05.26-15.31.28:953][266]LogWorld: Bringing up level for play took: 0.000269
+[2021.05.26-15.31.28:953][266]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.05.26-15.31.28:954][266]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.26-15.31.28:955][266]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.05.26-15.31.28:956][266]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.05.26-15.31.28:956][266]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.05.26-15.31.28:956][266]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.05.26-15.31.28:956][266]PIE: Server logged in
+[2021.05.26-15.31.28:957][266]PIE: Play in editor total start time 0.167 seconds.
+[2021.05.26-15.31.33:398][532]LogNet: Browse: /Game/Levels/MainMenu
+[2021.05.26-15.31.33:398][532]LogLoad: LoadMap: /Game/Levels/MainMenu
+[2021.05.26-15.31.33:398][532]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2021.05.26-15.31.33:398][532]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-15.31.33:398][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-15.31.33:403][532]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.26-15.31.33:404][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.05.26-15.31.33:404][532]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2021.05.26-15.31.33:405][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000810s)
+[2021.05.26-15.31.33:406][532]LogAIModule: Creating AISystem for world MainMenu
+[2021.05.26-15.31.33:406][532]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2021.05.26-15.31.33:406][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.001777s)
+[2021.05.26-15.31.33:406][532]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2021.05.26-15.31.33:406][532]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.26-15.31.33:407][532]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.05.26-11.31.33
+[2021.05.26-15.31.33:407][532]LogWorld: Bringing up level for play took: 0.000185
+[2021.05.26-15.31.33:407][532]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.26-15.31.33:407][532]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.26-15.31.33:408][532]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.05.26-15.31.33:408][532]LogLoad: Took 0.009912 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainMenu)
+[2021.05.26-15.31.34:756][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-15.31.34:874][613]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2021.05.26-15.31.34:874][613]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-15.31.34:874][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-15.31.34:883][613]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.26-15.31.34:884][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-15.31.34:889][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-15.31.34:889][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-15.31.34:890][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.26-15.31.34:937][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.05.26-15.31.34:960][614]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.05.26-15.31.39:331][871]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2021.05.26-15.31.39:496][871]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.05.26-15.31.40:289][871]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.26-15.31.40:314][872]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.26-15.32.42:517][495]BlueprintLog: New page: Compile MainMenu
+[2021.05.26-15.32.42:551][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.05.26-15.32.42:571][495]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.26-15.32.44:531][613]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.26-15.32.44:588][613]LogFMOD: Creating runtime Studio System
+[2021.05.26-15.32.44:590][613]LogFMOD: Default sample rate = 48000
+[2021.05.26-15.32.44:590][613]LogFMOD: System sample rate = 44100
+[2021.05.26-15.32.44:590][613]LogFMOD: Matching system sample rate 44100
+[2021.05.26-15.32.44:621][613]LogFMOD: Loading Banks
+[2021.05.26-15.32.44:621][613]LogFMOD: Loading bank: C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/BGM.bank
+[2021.05.26-15.32.44:621][613]LogFMOD: Loading bank: C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/SFX.bank
+[2021.05.26-15.32.44:621][613]LogFMOD: Loading bank: C:/Users/Sherm/Documents/SnowWayOut/SnowWayOut/Content/FMOD/Desktop/UI.bank
+[2021.05.26-15.32.44:667][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.26-15.32.44:667][613]PIE: New page: PIE session: MainMenu (May 26, 2021, 7:32:44 AM)
+[2021.05.26-15.32.44:667][613]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2021.05.26-15.32.44:668][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000938s)
+[2021.05.26-15.32.44:668][613]LogAIModule: Creating AISystem for world MainMenu
+[2021.05.26-15.32.44:669][613]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2021.05.26-15.32.44:669][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.001798s)
+[2021.05.26-15.32.44:687][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.05.26-15.32.44:688][613]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.05.26-15.32.44:688][613]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.26-15.32.44:688][613]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.26-15.32.44:688][613]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.26-15.32.44:688][613]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.26-15.32.44:688][613]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.26-15.32.44:688][613]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.26-15.32.44:688][613]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.26-15.32.44:688][613]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.26-15.32.44:688][613]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.26-15.32.44:688][613]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.26-15.32.44:691][613]LogAudioMixer: Warning: Did not find the channel type flags for audio device 'Speakers (Scarlett 2i4 USB)'. Reverting to a default channel ordering.
+[2021.05.26-15.32.44:691][613]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.26-15.32.44:691][613]LogAudioMixer: Display: 1: FrontRight
+[2021.05.26-15.32.44:691][613]LogAudioMixer: Display: 2: BackLeft
+[2021.05.26-15.32.44:691][613]LogAudioMixer: Display: 3: BackRight
+[2021.05.26-15.32.44:719][613]LogAudioMixer: Display: Using Audio Device Speakers (Scarlett 2i4 USB)
+[2021.05.26-15.32.44:719][613]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.26-15.32.44:719][613]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.26-15.32.44:719][613]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.26-15.32.44:720][613]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.26-15.32.44:720][613]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.26-15.32.44:720][613]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=4, Samples=4096
+[2021.05.26-15.32.44:733][613]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.26-15.32.44:733][613]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.26-15.32.44:733][613]LogInit: FAudioDevice initialized.
+[2021.05.26-15.32.44:733][613]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu'.
+[2021.05.26-15.32.44:747][613]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.26-15.32.44:747][613]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.05.26-11.32.44
+[2021.05.26-15.32.44:747][613]LogWorld: Bringing up level for play took: 0.000429
+[2021.05.26-15.32.44:748][613]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.05.26-15.32.44:749][613]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.05.26-15.32.44:749][613]PIE: Server logged in
+[2021.05.26-15.32.44:750][613]PIE: Play in editor total start time 0.213 seconds.
+[2021.05.26-15.32.50:418][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.26-15.32.50:418][911]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2021.05.26-15.32.50:419][911]LogFMOD: Warning: Failed to stop event instance
+[2021.05.26-15.32.50:421][911]LogOutputDevice: Warning: 
+
+Script Stack (2 frames):
+MainMenu_C.ExecuteUbergraph_MainMenu
+MainMenu_C.ReceiveEndPlay
+
+[2021.05.26-15.32.50:987][911]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.567 s
+[2021.05.26-15.32.50:987][911]LogOutputDevice: Error: === Handled ensure: ===
+[2021.05.26-15.32.50:987][911]LogOutputDevice: Error: 
+[2021.05.26-15.32.50:987][911]LogOutputDevice: Error: Ensure condition failed: !World->bIsTearingDown [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/UMG/Private/UserWidget.cpp] [Line: 1961]
+[2021.05.26-15.32.50:987][911]LogOutputDevice: Error: Widget Class MainMenu_C - Attempting to be created while tearing down the world 'MainMenu'
+[2021.05.26-15.32.50:987][911]LogOutputDevice: Error: Stack: 
+[2021.05.26-15.32.50:987][911]LogOutputDevice: Error: [Callstack] 0x00007ff93077c3b5 UE4Editor-UMG.dll!UnknownFunction []
+[2021.05.26-15.32.50:987][911]LogOutputDevice: Error: [Callstack] 0x00007ff93061b902 UE4Editor-UMG.dll!UnknownFunction []
+[2021.05.26-15.32.50:987][911]LogOutputDevice: Error: [Callstack] 0x00007ff93057d65b UE4Editor-UMG.dll!UnknownFunction []
+[2021.05.26-15.32.50:987][911]LogOutputDevice: Error: [Callstack] 0x00007ff9306166a5 UE4Editor-UMG.dll!UnknownFunction []
+[2021.05.26-15.32.50:987][911]LogOutputDevice: Error: [Callstack] 0x00007ff9307210cc UE4Editor-UMG.dll!UnknownFunction []
+[2021.05.26-15.32.50:987][911]LogOutputDevice: Error: [Callstack] 0x00007ff93e8c26a4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.26-15.32.50:987][911]LogOutputDevice: Error: [Callstack] 0x00007ff93eb38207 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.26-15.32.50:987][911]LogOutputDevice: Error: [Callstack] 0x00007ff93eb4f843 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.26-15.32.50:987][911]LogOutputDevice: Error: [Callstack] 0x00007ff93eb7d57f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.26-15.32.50:987][911]LogOutputDevice: Error: [Callstack] 0x00007ff93eb5238d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.26-15.32.50:987][911]LogOutputDevice: Error: [Callstack] 0x00007ff93eb26bfa UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.26-15.32.50:988][911]LogOutputDevice: Error: [Callstack] 0x00007ff93eb51f84 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.26-15.32.50:988][911]LogOutputDevice: Error: [Callstack] 0x00007ff93eb5238d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.26-15.32.50:988][911]LogOutputDevice: Error: [Callstack] 0x00007ff93eb51794 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.26-15.32.50:988][911]LogOutputDevice: Error: [Callstack] 0x00007ff93e8c26a4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.26-15.32.50:988][911]LogOutputDevice: Error: [Callstack] 0x00007ff93eb50ef3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.26-15.32.50:988][911]LogOutputDevice: Error: [Callstack] 0x00007ff9311ac125 UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.26-15.32.50:988][911]LogOutputDevice: Error: [Callstack] 0x00007ff93255f258 UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.26-15.32.50:988][911]LogOutputDevice: Error: [Callstack] 0x00007ff93118d749 UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.26-15.32.50:988][911]LogOutputDevice: Error: [Callstack] 0x00007ff9311b9388 UE4Editor-Engine.dll!UnknownFunction []
+[2021.05.26-15.32.50:988][911]LogOutputDevice: Error: [Callstack] 0x00007ff92585c93b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.26-15.32.50:988][911]LogOutputDevice: Error: [Callstack] 0x00007ff92581f351 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.26-15.32.50:988][911]LogOutputDevice: Error: [Callstack] 0x00007ff9252ba662 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.26-15.32.50:988][911]LogOutputDevice: Error: [Callstack] 0x00007ff925bd4206 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.26-15.32.50:988][911]LogOutputDevice: Error: [Callstack] 0x00007ff6f5ba9bda UE4Editor.exe!UnknownFunction []
+[2021.05.26-15.32.50:988][911]LogOutputDevice: Error: [Callstack] 0x00007ff6f5bc11ac UE4Editor.exe!UnknownFunction []
+[2021.05.26-15.32.50:988][911]LogOutputDevice: Error: [Callstack] 0x00007ff6f5bc128a UE4Editor.exe!UnknownFunction []
+[2021.05.26-15.32.50:988][911]LogOutputDevice: Error: [Callstack] 0x00007ff6f5bd52ed UE4Editor.exe!UnknownFunction []
+[2021.05.26-15.32.50:988][911]LogOutputDevice: Error: [Callstack] 0x00007ff6f5bd801a UE4Editor.exe!UnknownFunction []
+[2021.05.26-15.32.50:988][911]LogOutputDevice: Error: [Callstack] 0x00007ff9b0cc7034 KERNEL32.DLL!UnknownFunction []
+[2021.05.26-15.32.50:988][911]LogOutputDevice: Error: [Callstack] 0x00007ff9b2502651 ntdll.dll!UnknownFunction []
+[2021.05.26-15.32.50:988][911]LogOutputDevice: Error: 
